@@ -1,0 +1,3400 @@
+{
+    "manifestVersion": 1,
+    "updatedAt": "2026-09-27T16:29:48Z",
+    "editions": [
+        {
+            "id": "ar.alafasy",
+            "reciterName": "Mishari Rashid al-Afasy",
+            "attribution": "Audio courtesy of islamic.network",
+            "bitrate": 64,
+            "totalBytes": 27390280,
+            "ayahCount": 564,
+            "files": [
+                {
+                    "ayah": 5673,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5673.mp3",
+                    "bytes": 52854,
+                    "sha256": "ab61c75fe4530ecf87f61ccb3aa6ad2e2de4a3907c6a8226806c30669e352c8e"
+                },
+                {
+                    "ayah": 5674,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5674.mp3",
+                    "bytes": 42405,
+                    "sha256": "b1dd3b2fc07209e32fde291e36cd221b4f74980a8be994340aa83f667045cb73"
+                },
+                {
+                    "ayah": 5675,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5675.mp3",
+                    "bytes": 49302,
+                    "sha256": "298d252c5ea10222bd15cbdbde3deed93db7fbbcb8d46f05d6c684a21ee2d15b"
+                },
+                {
+                    "ayah": 5676,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5676.mp3",
+                    "bytes": 34046,
+                    "sha256": "2a547843ccb8ad77a09700a7f9f5165cce501fc584076347bdcef9dc64234d00"
+                },
+                {
+                    "ayah": 5677,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5677.mp3",
+                    "bytes": 50974,
+                    "sha256": "f0cd386050dfd0a109bb360f005746ef123a524d2bb21410fac845801f3c7f91"
+                },
+                {
+                    "ayah": 5678,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5678.mp3",
+                    "bytes": 34673,
+                    "sha256": "887341ec7db87091b15ccfb968cdc5f81e20dafe9cf7f15c899f4de403bffcb3"
+                },
+                {
+                    "ayah": 5679,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5679.mp3",
+                    "bytes": 32374,
+                    "sha256": "6dd93070c52827101d40569fefc658d8baf478258fd074cfbf7a715958a0a515"
+                },
+                {
+                    "ayah": 5680,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5680.mp3",
+                    "bytes": 34255,
+                    "sha256": "9617b90e4a7b94ce6e414301cb31e26f86cda82fe2e41d552ce91715fec4414a"
+                },
+                {
+                    "ayah": 5681,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5681.mp3",
+                    "bytes": 38226,
+                    "sha256": "670d74790d5d7a1d61da8eba7b391850e435d67376417793d384b4bc1b4c7c26"
+                },
+                {
+                    "ayah": 5682,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5682.mp3",
+                    "bytes": 33212,
+                    "sha256": "925f8e4663c8a97965288a19cd1fbba83a419fd3e5ed9f9b4d2de81679a8480c"
+                },
+                {
+                    "ayah": 5683,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5683.mp3",
+                    "bytes": 41780,
+                    "sha256": "3a2f2ba78fed737a0ef5978720111316654f971358c2991f5a85577af50f84a7"
+                },
+                {
+                    "ayah": 5684,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5684.mp3",
+                    "bytes": 52229,
+                    "sha256": "1b6a5a22f4057775842f3403343014c78eacf1f4fc70d5ff6e0a1ee487e11735"
+                },
+                {
+                    "ayah": 5685,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5685.mp3",
+                    "bytes": 44706,
+                    "sha256": "6841fd12fa2fd931024b86384553d60828e9ab6d95fdb7373f3b61e7f35a517c"
+                },
+                {
+                    "ayah": 5686,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5686.mp3",
+                    "bytes": 76053,
+                    "sha256": "dc82754aff0f125098f6fb9ca5c188e3aeec7fd86194474d81b7630c5532eda7"
+                },
+                {
+                    "ayah": 5687,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5687.mp3",
+                    "bytes": 43661,
+                    "sha256": "2d33117060c91b098f826913647d3c6953b9c53f6994138c9f34cce99c526a99"
+                },
+                {
+                    "ayah": 5688,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5688.mp3",
+                    "bytes": 34884,
+                    "sha256": "1bfc67642fc19ae820235f0de49ba08639cf90739180f1860c8ae665282e6c25"
+                },
+                {
+                    "ayah": 5689,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5689.mp3",
+                    "bytes": 46796,
+                    "sha256": "31450a92bf919710055a3d3f186ca6bb0800ec8c762fd0b30a8c00236f30126e"
+                },
+                {
+                    "ayah": 5690,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5690.mp3",
+                    "bytes": 56827,
+                    "sha256": "6bf0f30e425b70a5332002510104fc08b90923e1eba0e371d2b1ab8d62e128c6"
+                },
+                {
+                    "ayah": 5691,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5691.mp3",
+                    "bytes": 58708,
+                    "sha256": "60a3a64cdd9ef0e8fbdaef615eaa9d0de0719efc6f001d57490c0099266f02dc"
+                },
+                {
+                    "ayah": 5692,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5692.mp3",
+                    "bytes": 47841,
+                    "sha256": "a6774a30c961bcce8c33e1913dcfe20c9663e62c6e65e3eb8f6d2c1f1cd733e2"
+                },
+                {
+                    "ayah": 5693,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5693.mp3",
+                    "bytes": 49304,
+                    "sha256": "d226d8cf7dbe6536b500393a3988819898931751528c2a801637b8e107069220"
+                },
+                {
+                    "ayah": 5694,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5694.mp3",
+                    "bytes": 28824,
+                    "sha256": "d4dde3fc8351cbccd6a8373c5b5a39f8a8abd9155286dbffc675149465316398"
+                },
+                {
+                    "ayah": 5695,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5695.mp3",
+                    "bytes": 47214,
+                    "sha256": "fe6ecce60d40691794441ca94f136095811d373b20a84e0f593397073de26b9b"
+                },
+                {
+                    "ayah": 5696,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5696.mp3",
+                    "bytes": 59962,
+                    "sha256": "aadf1b158ffd0a120426121bc1cdc8c9aea334af51216574b7bbda87fe518049"
+                },
+                {
+                    "ayah": 5697,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5697.mp3",
+                    "bytes": 43452,
+                    "sha256": "077f2f0f89cfb80cf12d9e0be9f584cd271e3249e8a2580702450a6f0bf9590f"
+                },
+                {
+                    "ayah": 5698,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5698.mp3",
+                    "bytes": 41989,
+                    "sha256": "3cb7dc41571c8825238165206ebb40d02da368540ee6926665f5fcb47349ab7a"
+                },
+                {
+                    "ayah": 5699,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5699.mp3",
+                    "bytes": 49513,
+                    "sha256": "7e2430999c73d18156c395bb2340327623262ff86e92d6c6fe9311cfe9c91d7f"
+                },
+                {
+                    "ayah": 5700,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5700.mp3",
+                    "bytes": 46169,
+                    "sha256": "a310d7285ea0a1807eabe43a89941352970edba062f30efa27a6ed20fb9ad863"
+                },
+                {
+                    "ayah": 5701,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5701.mp3",
+                    "bytes": 48677,
+                    "sha256": "96bf99cd6b53b961f78d0a3fecfef1d1c8b03192c601a5971c8556243f7442aa"
+                },
+                {
+                    "ayah": 5702,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5702.mp3",
+                    "bytes": 64141,
+                    "sha256": "8589a2a59b9896b5e3ebc27b3529a1f8917c351cf4a11972148fdb3812ccec35"
+                },
+                {
+                    "ayah": 5703,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5703.mp3",
+                    "bytes": 37183,
+                    "sha256": "b6e032fa5faa41c0a2d2b5c85ad205a7b998428ebf89d3ebe5c871f014ab4adc"
+                },
+                {
+                    "ayah": 5704,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5704.mp3",
+                    "bytes": 36556,
+                    "sha256": "ff27c4ef376abd6ade8d4d3baae0bcca8fcf925c482bd9c80b037f3c663ca4ea"
+                },
+                {
+                    "ayah": 5705,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5705.mp3",
+                    "bytes": 26943,
+                    "sha256": "c5451fe4b4056890b99e47e78f7b1323a820798eec641164db364f759c99d52f"
+                },
+                {
+                    "ayah": 5706,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5706.mp3",
+                    "bytes": 31123,
+                    "sha256": "6cb60d567261b158b451c843859f001e722416d6eaeb5bf8f12399886416faac"
+                },
+                {
+                    "ayah": 5707,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5707.mp3",
+                    "bytes": 59544,
+                    "sha256": "69c0c946156bf50558d636d171cdbfe8eb579ccf5033c3fc9fb064ccea8961e1"
+                },
+                {
+                    "ayah": 5708,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5708.mp3",
+                    "bytes": 69366,
+                    "sha256": "0e1957dc34da648019b9cf041d3e7216158349bfd6ec2112fe37cc108f245898"
+                },
+                {
+                    "ayah": 5709,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5709.mp3",
+                    "bytes": 109281,
+                    "sha256": "6321ad4e31da5f5b3795e0454a46d70b25d4f23b5b7aa6df590e7fe56dd91334"
+                },
+                {
+                    "ayah": 5710,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5710.mp3",
+                    "bytes": 159018,
+                    "sha256": "788f518658dfc36074ee35996992e79a1ece37a1a425ee1e3666fe850abb1ae8"
+                },
+                {
+                    "ayah": 5711,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5711.mp3",
+                    "bytes": 91936,
+                    "sha256": "0df18a6415a8f3021e005ff06eb2fe7266042998f23e8ea30e424a3a073857b5"
+                },
+                {
+                    "ayah": 5712,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5712.mp3",
+                    "bytes": 212099,
+                    "sha256": "06404280b20508b6b37da3d55bfa0629f45390c1e2e20e1f7d08b11656dd1fda"
+                },
+                {
+                    "ayah": 5713,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5713.mp3",
+                    "bytes": 38022,
+                    "sha256": "d2623fee100530583fb448406f67fa263d428a2ed73bd3720a36d260d7ccb259"
+                },
+                {
+                    "ayah": 5714,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5714.mp3",
+                    "bytes": 36559,
+                    "sha256": "fb2bc674c12a77e133117b3aa6265203bbc151b8de3c0b8b54568af2f504a918"
+                },
+                {
+                    "ayah": 5715,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5715.mp3",
+                    "bytes": 27573,
+                    "sha256": "26428ffcdaad17619f9c4e453aef43dec9355c8fc61a6ed38b5c92a40c5287f1"
+                },
+                {
+                    "ayah": 5716,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5716.mp3",
+                    "bytes": 27573,
+                    "sha256": "cd0cbc70bcf6410d19a365518254aab5a50dc674b6704b2d40ec9fc00eb2f3f0"
+                },
+                {
+                    "ayah": 5717,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5717.mp3",
+                    "bytes": 28618,
+                    "sha256": "2287c2b308767f4efb304e6de7daff2fd24bd38ef1045b738b2efdf8f2d4c449"
+                },
+                {
+                    "ayah": 5718,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5718.mp3",
+                    "bytes": 28409,
+                    "sha256": "67bfe2381da56a4c584ac0a7ff40a752d9a9fe83e963658f2569973426d0d6a8"
+                },
+                {
+                    "ayah": 5719,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5719.mp3",
+                    "bytes": 25483,
+                    "sha256": "62908d784fed891d70ddc265e2d9a31de76f4da7c9cf2c829f681e70fd07ea1c"
+                },
+                {
+                    "ayah": 5720,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5720.mp3",
+                    "bytes": 45336,
+                    "sha256": "0b98919697f4fe339ddde8fd1898f07703db5c1d9b4a1cd3c65cfc07fd03bd9e"
+                },
+                {
+                    "ayah": 5721,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5721.mp3",
+                    "bytes": 26110,
+                    "sha256": "325dc1062b7835da3beb601a84e16ffff2222bdc1ecf1ddc352f7d5b5c976b4e"
+                },
+                {
+                    "ayah": 5722,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5722.mp3",
+                    "bytes": 58713,
+                    "sha256": "580e8f7f8d17ccdf7756347e8cdbe569b47470c210a7f22ad7cc5fec2ec5baab"
+                },
+                {
+                    "ayah": 5723,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5723.mp3",
+                    "bytes": 49518,
+                    "sha256": "d58c5f000d648f62829cff8dfcb2f346fa9e8c771e349fa1f3eaba5cc7ec9268"
+                },
+                {
+                    "ayah": 5724,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5724.mp3",
+                    "bytes": 46592,
+                    "sha256": "caf27cb88bd5b1ba1d867b785cc72a7ceaab96226883129b8918a98053d51965"
+                },
+                {
+                    "ayah": 5725,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5725.mp3",
+                    "bytes": 49309,
+                    "sha256": "2c25d19bf9c962c05f97bab691fafe4e8fc02b218fdaec842759129fb17edd9e"
+                },
+                {
+                    "ayah": 5726,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5726.mp3",
+                    "bytes": 36143,
+                    "sha256": "503dc8b096c888c5acc4e52954653afaba6171f2c1e7402a9c8e0d3ab8174223"
+                },
+                {
+                    "ayah": 5727,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5727.mp3",
+                    "bytes": 32799,
+                    "sha256": "89dd33c12b974f1ce4fc169964e889f3f489bf70a5e7c50682f14bc958181e10"
+                },
+                {
+                    "ayah": 5728,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5728.mp3",
+                    "bytes": 51190,
+                    "sha256": "82774516fba0851ceab1b97567fcd566c7c028fa56b014c9d32962ed226e41cf"
+                },
+                {
+                    "ayah": 5729,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5729.mp3",
+                    "bytes": 47219,
+                    "sha256": "deb492da746810cb34a5582defa937ad717f96f9e9b1f8a0655604a8180741d2"
+                },
+                {
+                    "ayah": 5730,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5730.mp3",
+                    "bytes": 53070,
+                    "sha256": "d37e264f5b6bf110542de396b23404c00344c6a3959eb70e49634e5337194ac4"
+                },
+                {
+                    "ayah": 5731,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5731.mp3",
+                    "bytes": 37397,
+                    "sha256": "c7464aaba9300cadb18fa687427b59b9947f0b7e08d407705270579e2d46e5e7"
+                },
+                {
+                    "ayah": 5732,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5732.mp3",
+                    "bytes": 31128,
+                    "sha256": "581b14517e1a5becf7acf4bd51c0919618be0b7c29116019d117f31bb55e1ba3"
+                },
+                {
+                    "ayah": 5733,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5733.mp3",
+                    "bytes": 20261,
+                    "sha256": "5da3e7f41852bdc73e3593e4f27680465008e79d0486450144fc0dcaff21eeec"
+                },
+                {
+                    "ayah": 5734,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5734.mp3",
+                    "bytes": 29456,
+                    "sha256": "9bcac42f4ddf888b43fc1c6dee583391508cd414189e42aa694c229015622cdd"
+                },
+                {
+                    "ayah": 5735,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5735.mp3",
+                    "bytes": 21305,
+                    "sha256": "a5085afddf6138490f55f21fb0c56e40b7697ac3f234f17f636a23be84baeada"
+                },
+                {
+                    "ayah": 5736,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5736.mp3",
+                    "bytes": 32590,
+                    "sha256": "a4e5c46914a15817b292372fe83a7d14195a51418d64bed20200d27f42778ec1"
+                },
+                {
+                    "ayah": 5737,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5737.mp3",
+                    "bytes": 49309,
+                    "sha256": "5ee4f097ca182d4e4cb23304fc0024d3f3f35f9b7221410ba2e62b73d851f87c"
+                },
+                {
+                    "ayah": 5738,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5738.mp3",
+                    "bytes": 55996,
+                    "sha256": "91a6470beddb0717341cfc47d726982238ddcd66a709a658a88f7e179d2239f9"
+                },
+                {
+                    "ayah": 5739,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5739.mp3",
+                    "bytes": 71043,
+                    "sha256": "9c015cb137ebec39b98bf3dcf824a380885d6e497600e0916228907fa4eebe0d"
+                },
+                {
+                    "ayah": 5740,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5740.mp3",
+                    "bytes": 32799,
+                    "sha256": "ecbe5cae031d7ed0194fded140b43babd78c7cda3371218d66795c7d9bd4d59b"
+                },
+                {
+                    "ayah": 5741,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5741.mp3",
+                    "bytes": 40114,
+                    "sha256": "914a7155782d524c50b712f2cfba9d3ebce5e6c74df7a3ee88829d34c81b1b43"
+                },
+                {
+                    "ayah": 5742,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5742.mp3",
+                    "bytes": 35098,
+                    "sha256": "c237861d708620dc6f3a553b1df6a97f04485cbc44a56e8f3eedae43c830aebb"
+                },
+                {
+                    "ayah": 5743,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5743.mp3",
+                    "bytes": 52861,
+                    "sha256": "af196e3ef3bdd77c7e46fffce34c9f1580cf3d4ea2e921a1984e4efb2b407a89"
+                },
+                {
+                    "ayah": 5744,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5744.mp3",
+                    "bytes": 25485,
+                    "sha256": "f0a0f2afd2a649dd8641ccff6f93f9ac0d471b1f56f73f1e70514fee4167c479"
+                },
+                {
+                    "ayah": 5745,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5745.mp3",
+                    "bytes": 35307,
+                    "sha256": "b5a99cc701177f39ee6dce1572bb6ed8e5343e71a1f4994b2b4edfa5f09e9ff1"
+                },
+                {
+                    "ayah": 5746,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5746.mp3",
+                    "bytes": 75849,
+                    "sha256": "b442ed6544a4b276ff86a6a6ea5e4239cbedc5f814af0cd7ddf33b64c706374c"
+                },
+                {
+                    "ayah": 5747,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5747.mp3",
+                    "bytes": 44920,
+                    "sha256": "04ef9f1449a0c66b62f46143c4a7e296f72ca95dcef6ded7e3e4bfff4a52aa5d"
+                },
+                {
+                    "ayah": 5748,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5748.mp3",
+                    "bytes": 40950,
+                    "sha256": "4067e5b549de100668cd125a3b13afe5f1afd4f1835183be2b1df0c127b34d79"
+                },
+                {
+                    "ayah": 5749,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5749.mp3",
+                    "bytes": 31128,
+                    "sha256": "86033bad0a12dbbcd49128c393ac92cb55391b5b8bcc561c06340a806f3d49fc"
+                },
+                {
+                    "ayah": 5750,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5750.mp3",
+                    "bytes": 31754,
+                    "sha256": "995b823f2f6d7826f482620f5dfb01b6190628e528ca4b4a5272067514e3e3f6"
+                },
+                {
+                    "ayah": 5751,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5751.mp3",
+                    "bytes": 38442,
+                    "sha256": "21056e6f7201b13e3769ce1d868b20dc29c026cda9c22c2c2f49eb840183a815"
+                },
+                {
+                    "ayah": 5752,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5752.mp3",
+                    "bytes": 75849,
+                    "sha256": "324388f6893fefa80b109f1883e6c197ac17e31be9dda1a3cf2d6adebf4e5fe6"
+                },
+                {
+                    "ayah": 5753,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5753.mp3",
+                    "bytes": 43457,
+                    "sha256": "a38bf78fcc4ba92715c591b143eedcf4687612fc177be716824ab1cc62dd3c0c"
+                },
+                {
+                    "ayah": 5754,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5754.mp3",
+                    "bytes": 49936,
+                    "sha256": "dd72465d05889ca13d86eb9cfa61bf6ddef8ec4a89134b2c0483a41a173f599b"
+                },
+                {
+                    "ayah": 5755,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5755.mp3",
+                    "bytes": 41368,
+                    "sha256": "4341faf599a2cb767d618f109e7315143b744af3547751f654b4aa3c4c7ecca9"
+                },
+                {
+                    "ayah": 5756,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5756.mp3",
+                    "bytes": 36143,
+                    "sha256": "c96b7d46022e7ea83d433877273246f279e99a9bc9cb33aa5de6ae6114be724c"
+                },
+                {
+                    "ayah": 5757,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5757.mp3",
+                    "bytes": 72505,
+                    "sha256": "9cc13726f0fb959d82756227533ae985607ad6448435b774e6bb1b4710b01d30"
+                },
+                {
+                    "ayah": 5758,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5758.mp3",
+                    "bytes": 105524,
+                    "sha256": "650a651f2d042c286af53b1a19d0e7062f6a0748d6629bac6fce8bd7c52444e1"
+                },
+                {
+                    "ayah": 5759,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5759.mp3",
+                    "bytes": 24849,
+                    "sha256": "16594ed41318e7782b4742f80d99d78e267a38583eb50d358ae8d0e8bc37fee4"
+                },
+                {
+                    "ayah": 5760,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5760.mp3",
+                    "bytes": 44493,
+                    "sha256": "aaf916b6197aba007f9a3e24328c599dd7b867dca2c4809e6455d2fd07ead4bb"
+                },
+                {
+                    "ayah": 5761,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5761.mp3",
+                    "bytes": 41776,
+                    "sha256": "2c4de789a1064e26291c07ea4b1dfb70e5f53869da3323516db388ad364c1164"
+                },
+                {
+                    "ayah": 5762,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5762.mp3",
+                    "bytes": 44075,
+                    "sha256": "0cb8e9f0d3877871ec13036ce5ffa18feb6cfd58e9fb88eaa6cea3a286b79626"
+                },
+                {
+                    "ayah": 5763,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5763.mp3",
+                    "bytes": 30074,
+                    "sha256": "f7c92bb8e197686c952b936473d566844b1891dc9c4248e96c499c58faee92b3"
+                },
+                {
+                    "ayah": 5764,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5764.mp3",
+                    "bytes": 32372,
+                    "sha256": "dee15a148a34ef806db4c217e55df17dfb85f6f57a26f5aa62ffd8124ed7a12a"
+                },
+                {
+                    "ayah": 5765,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5765.mp3",
+                    "bytes": 36134,
+                    "sha256": "a453beeaa52c301b8c9f7a1bf8e8b336afa1ea2bbfab5d64296eb88f8a5bad94"
+                },
+                {
+                    "ayah": 5766,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5766.mp3",
+                    "bytes": 53479,
+                    "sha256": "165437c32e2137ddc1920fee49b266539b52b4e610828905dd8e0ae2c2ce77f6"
+                },
+                {
+                    "ayah": 5767,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5767.mp3",
+                    "bytes": 17953,
+                    "sha256": "fa6526d6cc7c008fde12eeb48917b909dd4ed09e42f5c64ab28f52e471665cfd"
+                },
+                {
+                    "ayah": 5768,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5768.mp3",
+                    "bytes": 29658,
+                    "sha256": "81a38db94761c71b04c6b9db6f5b5824511256782a088f9fcb01ff232f0036dc"
+                },
+                {
+                    "ayah": 5769,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5769.mp3",
+                    "bytes": 48466,
+                    "sha256": "a14607f351284f39a60a7b73df80fa1bd2b8bba299016fb0a2dbe9914bd86c7d"
+                },
+                {
+                    "ayah": 5770,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5770.mp3",
+                    "bytes": 38017,
+                    "sha256": "caf09d8a9c10ee7a6b9c985823705e6858760ca87eeb2a3b5a9ec28e5a56d88f"
+                },
+                {
+                    "ayah": 5771,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5771.mp3",
+                    "bytes": 29240,
+                    "sha256": "ee00abe5202e8093ae3d56007497c285dc1835c80330da2b1033d1f8191e6220"
+                },
+                {
+                    "ayah": 5772,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5772.mp3",
+                    "bytes": 32165,
+                    "sha256": "bfe48ddfcc5d9da714d39208a4dfe71d108566e23b7b95d877ac5932387bf6b4"
+                },
+                {
+                    "ayah": 5773,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5773.mp3",
+                    "bytes": 19209,
+                    "sha256": "ba292755b6d61555aee183b8055cc8c23edb7b86cf16379ac8adb6ce060de548"
+                },
+                {
+                    "ayah": 5774,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5774.mp3",
+                    "bytes": 24642,
+                    "sha256": "d6b6abfc55c485e732d605f2d5c53c5a84f784df0754c5feba5ac4a0615684a7"
+                },
+                {
+                    "ayah": 5775,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5775.mp3",
+                    "bytes": 49093,
+                    "sha256": "d698a8c7cccb4d4a5e2469adaf51cd213b8f619ff4eabaa7219fa7ceee5d3076"
+                },
+                {
+                    "ayah": 5776,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5776.mp3",
+                    "bytes": 27777,
+                    "sha256": "031d59d281e83478c25b3c908bd1a5029f2f1b63e8fa92d61841164cfb9437d7"
+                },
+                {
+                    "ayah": 5777,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5777.mp3",
+                    "bytes": 44495,
+                    "sha256": "dbfbc84758a7ec9e4e7ed30db075f56bbd454164944b4b27c9981ce725da9abf"
+                },
+                {
+                    "ayah": 5778,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5778.mp3",
+                    "bytes": 34673,
+                    "sha256": "f53a137329dd64dfc4f626cd555663983b5b8ed08bdca7663aa053127e7315be"
+                },
+                {
+                    "ayah": 5779,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5779.mp3",
+                    "bytes": 37390,
+                    "sha256": "ac24404cc223aeeae2119c84d7dee2fc32a7947e5218583913777a7683df8a97"
+                },
+                {
+                    "ayah": 5780,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5780.mp3",
+                    "bytes": 53481,
+                    "sha256": "82222912c46c6259ee06318d24fadfe3054cb26186d0d8fb647ec4f2aaf3bc8e"
+                },
+                {
+                    "ayah": 5781,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5781.mp3",
+                    "bytes": 53481,
+                    "sha256": "1ae61860e8896734fe9cd80f340770f071ba1b678c628404d7dd830d8c0649c5"
+                },
+                {
+                    "ayah": 5782,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5782.mp3",
+                    "bytes": 51601,
+                    "sha256": "3ed3d456dc5df9c8c1b21d0f332d13043cea0b00ba4598d682bf92b111c46e35"
+                },
+                {
+                    "ayah": 5783,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5783.mp3",
+                    "bytes": 52645,
+                    "sha256": "c36496ea2bf976a9b8d8c9b0cc342eb35d74b3dcbbdd9fcf6afb97c2871ad1cf"
+                },
+                {
+                    "ayah": 5784,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5784.mp3",
+                    "bytes": 39480,
+                    "sha256": "d29e3461d6d763ba23be753c6475f4f00085197376091473e9228e0283ffd376"
+                },
+                {
+                    "ayah": 5785,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5785.mp3",
+                    "bytes": 38644,
+                    "sha256": "331b2370b8fc240b2c1ff6370b94f63ef1dec28ff9746b58df99615409e630db"
+                },
+                {
+                    "ayah": 5786,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5786.mp3",
+                    "bytes": 29867,
+                    "sha256": "4fb3f404e508940b5133493843588c2217c9c0319bc6f739fde6e105e3297dc9"
+                },
+                {
+                    "ayah": 5787,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5787.mp3",
+                    "bytes": 35091,
+                    "sha256": "7a8a4870b68c1da19ecea69b785cb442924936236b0026126984ddb7d80ec0ad"
+                },
+                {
+                    "ayah": 5788,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5788.mp3",
+                    "bytes": 33419,
+                    "sha256": "35ae4c413ab8826f727d8bf6e72dad8ebbfc0e3dc023a4b5f345c84a737580b0"
+                },
+                {
+                    "ayah": 5789,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5789.mp3",
+                    "bytes": 31538,
+                    "sha256": "14b58ee59e09f8444b6a4ee46e15382e34751052992c26f4c5006a95cd63293c"
+                },
+                {
+                    "ayah": 5790,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5790.mp3",
+                    "bytes": 35718,
+                    "sha256": "d180d8575827716cad970aed9da6695c0512a2a15f957413f76c5812367ac2bc"
+                },
+                {
+                    "ayah": 5791,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5791.mp3",
+                    "bytes": 61841,
+                    "sha256": "3ab94a6545926e8f72208dcc4a9dd2c413ca5f1deab587c0f6c6dd32e3320759"
+                },
+                {
+                    "ayah": 5792,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5792.mp3",
+                    "bytes": 47212,
+                    "sha256": "049fadccfbb41111e8f27cf089475534fe28e68295ef9bf0c959a6f7f620cc3f"
+                },
+                {
+                    "ayah": 5793,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5793.mp3",
+                    "bytes": 45749,
+                    "sha256": "0980a4c0e273fb99e8a3d4daf76770c69eb24733f2a9d6b0e1c22a7194d65d37"
+                },
+                {
+                    "ayah": 5794,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5794.mp3",
+                    "bytes": 36554,
+                    "sha256": "d2fb9418fc416f5ed02eebe1f95fa7be0fc80185bcef2acb7c2effd9fbf45e8d"
+                },
+                {
+                    "ayah": 5795,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5795.mp3",
+                    "bytes": 86082,
+                    "sha256": "c341933ce491cfd675504e612e46a3433b83fdd534ccf7b1487ca4803b06fff3"
+                },
+                {
+                    "ayah": 5796,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5796.mp3",
+                    "bytes": 45958,
+                    "sha256": "7b0dafcc1765af71868611688929af55378b8c95e08545ceee7cd1c15dec177d"
+                },
+                {
+                    "ayah": 5797,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5797.mp3",
+                    "bytes": 33210,
+                    "sha256": "2f59ac316175f1d456a6bccad18765a1eecec9bc9e456cac00005618d7e42420"
+                },
+                {
+                    "ayah": 5798,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5798.mp3",
+                    "bytes": 49093,
+                    "sha256": "eb8f4132b9cce3765264c020ff4cf2cb80a79ef45e8e5162741f59d2073154cc"
+                },
+                {
+                    "ayah": 5799,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5799.mp3",
+                    "bytes": 22552,
+                    "sha256": "9072809a5c0fd471ba1c4d4781c37d2cdc6fc26b86edffee5f0fce7c568c3631"
+                },
+                {
+                    "ayah": 5800,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5800.mp3",
+                    "bytes": 57661,
+                    "sha256": "5cbc6754109b505d5824d2cf80f66cede1747974f9b46ff8945e7b3f0f77139e"
+                },
+                {
+                    "ayah": 5801,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5801.mp3",
+                    "bytes": 20465,
+                    "sha256": "b1cb7397678cce6ab16e3f1eca6b7f8ac6e1101e36e7098ea366a855978e0fc4"
+                },
+                {
+                    "ayah": 5802,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5802.mp3",
+                    "bytes": 31123,
+                    "sha256": "4d6b53ffd4b14793194f7cb46090d4341879fe4d6af7c80d91d67ecafb182bba"
+                },
+                {
+                    "ayah": 5803,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5803.mp3",
+                    "bytes": 23390,
+                    "sha256": "5c69b28decdccc2ae078058f119853455e0d7fea064257cf737f11e1635e19cd"
+                },
+                {
+                    "ayah": 5804,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5804.mp3",
+                    "bytes": 23808,
+                    "sha256": "f1e1d9148d0e9aa49cc26739cd4a594490f80e15b612f29d83a47ab9d76d7ae4"
+                },
+                {
+                    "ayah": 5805,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5805.mp3",
+                    "bytes": 21927,
+                    "sha256": "848d976e279d0aa1d0d60c049bd5db1ce0339c0e23389279db9dc300640b828b"
+                },
+                {
+                    "ayah": 5806,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5806.mp3",
+                    "bytes": 24017,
+                    "sha256": "d7cfc664457be92a720cc12feac5726ca66da6e8f21301fef6617c96d26cfee3"
+                },
+                {
+                    "ayah": 5807,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5807.mp3",
+                    "bytes": 26316,
+                    "sha256": "61cbe10d30dd65abd07c51dca91f55bcab35efffb22fef524b07239cfb321e70"
+                },
+                {
+                    "ayah": 5808,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5808.mp3",
+                    "bytes": 25271,
+                    "sha256": "b18dd91d63179a2201023ba36d977339f5b2639c3f2c2658d7a4edfb58e9eb6a"
+                },
+                {
+                    "ayah": 5809,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5809.mp3",
+                    "bytes": 35302,
+                    "sha256": "d960763b40cf881796f9d9d63b136b7b1daaca0c154c4e966438eefd46189c00"
+                },
+                {
+                    "ayah": 5810,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5810.mp3",
+                    "bytes": 19213,
+                    "sha256": "333bdd43f581fa87c4b6f258ff7f63876379e1492826c72496514553e57d9c61"
+                },
+                {
+                    "ayah": 5811,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5811.mp3",
+                    "bytes": 31960,
+                    "sha256": "642e7dbb58842a48a89663d4865a1833b99dc584b2322b4a8a2af16996354db3"
+                },
+                {
+                    "ayah": 5812,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5812.mp3",
+                    "bytes": 23601,
+                    "sha256": "2cbc78545e37fb45173b33c8eb4878d819d958342654e3b6b6a25fcf9aa7bcd6"
+                },
+                {
+                    "ayah": 5813,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5813.mp3",
+                    "bytes": 31542,
+                    "sha256": "6989e8ea9ae1dca71ce017edae888647c1f21ba430e42e06ece801a7df0a9ba5"
+                },
+                {
+                    "ayah": 5814,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5814.mp3",
+                    "bytes": 41782,
+                    "sha256": "fbd67c9eae0dbdfcf59dc2aba2d288a629a3a8e326e1618e852fb351e61417de"
+                },
+                {
+                    "ayah": 5815,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5815.mp3",
+                    "bytes": 48261,
+                    "sha256": "10925414807beb323f6bf9487e21f7576b47459077c3edb9e586ccd35ba008f8"
+                },
+                {
+                    "ayah": 5816,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5816.mp3",
+                    "bytes": 30498,
+                    "sha256": "5b558c6a3562b22f4c4910e32c5c9072dc3a1800efe9fb17f50e080d4b69f8df"
+                },
+                {
+                    "ayah": 5817,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5817.mp3",
+                    "bytes": 25064,
+                    "sha256": "6e6d95c13dab60c425026ae0733b69e487f24c57df8f1a03c1e12031ca8bb395"
+                },
+                {
+                    "ayah": 5818,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5818.mp3",
+                    "bytes": 27154,
+                    "sha256": "1de147834285659c6fd64205a02b7fa92d21da26cd2476571b79c420e47814da"
+                },
+                {
+                    "ayah": 5819,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5819.mp3",
+                    "bytes": 49933,
+                    "sha256": "137d0dde402096677a22165efe4c639951d507bd9b6cdcf249a4a48612f7ae69"
+                },
+                {
+                    "ayah": 5820,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5820.mp3",
+                    "bytes": 45126,
+                    "sha256": "e2f813177a3c1a28bd53a3182374463c1f1317f4aa7e4f8698236f9fc7ef979e"
+                },
+                {
+                    "ayah": 5821,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5821.mp3",
+                    "bytes": 40947,
+                    "sha256": "55fbdffc607b2647f2cfea612410aea4486bbdcdbd97b4a9a1e6398afccc54c5"
+                },
+                {
+                    "ayah": 5822,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5822.mp3",
+                    "bytes": 42618,
+                    "sha256": "00ee2b74b2f80094716a4dc92c50aeb3ec09263707a431ff8c939789f2770895"
+                },
+                {
+                    "ayah": 5823,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5823.mp3",
+                    "bytes": 43663,
+                    "sha256": "6f99c2a4d55c7f8f9a3ba10ca60091b34143fe9384eba2b3b09381ce0e0de312"
+                },
+                {
+                    "ayah": 5824,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5824.mp3",
+                    "bytes": 42618,
+                    "sha256": "fdc52f3631c61b9a198c94a8afbb79ab751ebd68f25e3c7aaf9a51a3bb7dff4a"
+                },
+                {
+                    "ayah": 5825,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5825.mp3",
+                    "bytes": 31960,
+                    "sha256": "1e1b4f4739a4cf00f88f8cf59b56a274f7bd71622d16872f158605979014da75"
+                },
+                {
+                    "ayah": 5826,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5826.mp3",
+                    "bytes": 27363,
+                    "sha256": "1ca3bf4a3c338c9e76b4fd76f6e5109b4c40ec1547884ae26b6631b0042f569f"
+                },
+                {
+                    "ayah": 5827,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5827.mp3",
+                    "bytes": 44290,
+                    "sha256": "297e0248aaee48b95dcdabea68591c5233174cd5df4d6f9545436f3607c3823c"
+                },
+                {
+                    "ayah": 5828,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5828.mp3",
+                    "bytes": 67696,
+                    "sha256": "70f7b22a38836611a239d0671d74ed51230741eb47507c70b325095448081f2d"
+                },
+                {
+                    "ayah": 5829,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5829.mp3",
+                    "bytes": 105521,
+                    "sha256": "ebf75eb50daedf3b8b495048fd6f3191830767ab56335ee1716ac5fbf9ad3a7b"
+                },
+                {
+                    "ayah": 5830,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5830.mp3",
+                    "bytes": 40320,
+                    "sha256": "ceedd5c94a38590e13c347eadba66238bf9b916ea3bc72aff938460a9ca8da6a"
+                },
+                {
+                    "ayah": 5831,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5831.mp3",
+                    "bytes": 38648,
+                    "sha256": "6fac7014e00c6b718162122dee9653d9cb4fc95d11e26bcf3bec3c6181083bba"
+                },
+                {
+                    "ayah": 5832,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5832.mp3",
+                    "bytes": 22974,
+                    "sha256": "7b123a91975d8c5e236093765de0ce13e6c5a392d68a2e0d02afd8745e4165ca"
+                },
+                {
+                    "ayah": 5833,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5833.mp3",
+                    "bytes": 28199,
+                    "sha256": "099f1eca73453496bf3dd0635ec143ced8b15144fb18c4d071bc5733a9b1eeef"
+                },
+                {
+                    "ayah": 5834,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5834.mp3",
+                    "bytes": 46798,
+                    "sha256": "b5987b23a325b6ace62c1ee6f3ae613b825e5c5c8497fcef61049012ff115322"
+                },
+                {
+                    "ayah": 5835,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5835.mp3",
+                    "bytes": 77518,
+                    "sha256": "da6afb63c7b48f9f26221762b43b33d97c7c798dd19cd33b2e96c6a72162219d"
+                },
+                {
+                    "ayah": 5836,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5836.mp3",
+                    "bytes": 38648,
+                    "sha256": "ccbcd9f3fbae42ea6fc5e059c2ac8cd43de970f2122b3ec8938ae0ced74b0bde"
+                },
+                {
+                    "ayah": 5837,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5837.mp3",
+                    "bytes": 61218,
+                    "sha256": "8674b4d8174f5a0fe5da0cd005c810b2b053919b3c931d7e8ad551803e0238af"
+                },
+                {
+                    "ayah": 5838,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5838.mp3",
+                    "bytes": 46380,
+                    "sha256": "2bf1bf40e509af561daac7e2ac76a86bc365f251b5c1f63a5203a161d889dfe6"
+                },
+                {
+                    "ayah": 5839,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5839.mp3",
+                    "bytes": 45337,
+                    "sha256": "79ef3907a006df0baa5a46dba51f44aa3180959682fe5f108c07756f6595b636"
+                },
+                {
+                    "ayah": 5840,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5840.mp3",
+                    "bytes": 35933,
+                    "sha256": "fcd1d5763fc07509c081eae01be9f75a7d7ee4a121752b1bc5eab002825e2815"
+                },
+                {
+                    "ayah": 5841,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5841.mp3",
+                    "bytes": 35724,
+                    "sha256": "ff319f696ef7b2e15b0308d7f828e551177dd57658c5c817d29772069f8392a1"
+                },
+                {
+                    "ayah": 5842,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5842.mp3",
+                    "bytes": 43874,
+                    "sha256": "b20cd749ae54e24db291b7b9df07d38ae36019f5ba6f29e453d1daaf423a7984"
+                },
+                {
+                    "ayah": 5843,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5843.mp3",
+                    "bytes": 46382,
+                    "sha256": "c045e43fec272a507ddc06ddf0b86a8ef0940802758dd3b08f6ca0793eb79826"
+                },
+                {
+                    "ayah": 5844,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5844.mp3",
+                    "bytes": 38232,
+                    "sha256": "cfd045309808fe99c9fdda01980f74273ab97e26f17a3fd4314239b67c7d123b"
+                },
+                {
+                    "ayah": 5845,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5845.mp3",
+                    "bytes": 54950,
+                    "sha256": "c0b8a51f4861d0197a898e6a59cc6d6fbe9a39ed6e68b97fe1aafd212135d51b"
+                },
+                {
+                    "ayah": 5846,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5846.mp3",
+                    "bytes": 52442,
+                    "sha256": "104e7a6acfd29ca6eac594094805f65941239099cff8e90d1691cc6730cbcd2b"
+                },
+                {
+                    "ayah": 5847,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5847.mp3",
+                    "bytes": 59339,
+                    "sha256": "3c03df1d4161bd14c2adf1c545228e6b11e58bfde6c60b229a38d35d92e5fbe7"
+                },
+                {
+                    "ayah": 5848,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5848.mp3",
+                    "bytes": 107613,
+                    "sha256": "cb32fe0d6c758ec8be292d8a40b8d09a6ce1deab129d17319a809f6ace9ada8b"
+                },
+                {
+                    "ayah": 5849,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5849.mp3",
+                    "bytes": 39695,
+                    "sha256": "141fbf1217e16eddfb479eed9a47c7ca7a2e141d24fae693d0f60c6ff92b8f06"
+                },
+                {
+                    "ayah": 5850,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5850.mp3",
+                    "bytes": 65608,
+                    "sha256": "53f651177a48630a2dea7bb536249668c0508c35eb10f839a60847a36496e52b"
+                },
+                {
+                    "ayah": 5851,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5851.mp3",
+                    "bytes": 58294,
+                    "sha256": "c4605acd10615f1b081c98d8e773206f4e893434930e8f994b69439a4c38b323"
+                },
+                {
+                    "ayah": 5852,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5852.mp3",
+                    "bytes": 84416,
+                    "sha256": "a08d93c7a48243f08c41a590c58c22e0ae26d8acf978c1f9c83f4d59d9758387"
+                },
+                {
+                    "ayah": 5853,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5853.mp3",
+                    "bytes": 34470,
+                    "sha256": "e307060386abbbd23d2faa0719f34d1f5f894221013e6eea7c81a3f2260cf8a6"
+                },
+                {
+                    "ayah": 5854,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5854.mp3",
+                    "bytes": 65399,
+                    "sha256": "f3602f48351ccd658d90faf9876d1713195852c8835e4f21938c4d04a0ec2584"
+                },
+                {
+                    "ayah": 5855,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5855.mp3",
+                    "bytes": 82118,
+                    "sha256": "0b27497a7896182641c4c0ed29a8c04bd8d724e8d9cfd2314865f902b209e3dd"
+                },
+                {
+                    "ayah": 5856,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5856.mp3",
+                    "bytes": 62682,
+                    "sha256": "0e7f818f92458ee0616774940ce3bd1d538c4fb7ad114427165033e4e6afdc4a"
+                },
+                {
+                    "ayah": 5857,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5857.mp3",
+                    "bytes": 44292,
+                    "sha256": "9d94e0ca0d341537f50860e8a365c0d4931fdea6eb9ff47f4632358fb595421d"
+                },
+                {
+                    "ayah": 5858,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5858.mp3",
+                    "bytes": 54116,
+                    "sha256": "8566fe3c7fc131b6ddb3ef730d7b02dd60deaf7eda2dc89a5debaa8ba23e1201"
+                },
+                {
+                    "ayah": 5859,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5859.mp3",
+                    "bytes": 51818,
+                    "sha256": "dc9f6949fae7563634d5435d5d57a44d27e05f2a509a256fcfe792b80350671f"
+                },
+                {
+                    "ayah": 5860,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5860.mp3",
+                    "bytes": 76268,
+                    "sha256": "5669095338560875ccdc97e930040befa535131ec1dc9ff82195d7c5ef064236"
+                },
+                {
+                    "ayah": 5861,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5861.mp3",
+                    "bytes": 78776,
+                    "sha256": "5db3f7fd3bb153fd60de395cff33bc3e8d15412de1ca23cf0f7aa4e592a99cc5"
+                },
+                {
+                    "ayah": 5862,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5862.mp3",
+                    "bytes": 77731,
+                    "sha256": "ff3799d3c63b3c8b80feabc9647cb47e9b19d57a4fe43559fcffb299263e32e6"
+                },
+                {
+                    "ayah": 5863,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5863.mp3",
+                    "bytes": 87135,
+                    "sha256": "e45405cb271a6366e687076cf5748990a68510bb43a567e80674b4374f3855d8"
+                },
+                {
+                    "ayah": 5864,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5864.mp3",
+                    "bytes": 60177,
+                    "sha256": "6332d5ed4e20dd42e8825519efa8f704e05018c669cb772d0d3f95ba0a74c12d"
+                },
+                {
+                    "ayah": 5865,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5865.mp3",
+                    "bytes": 85463,
+                    "sha256": "98d977335f3728454573c2891cc9b16daf77b0b976658453d1865da0415529e3"
+                },
+                {
+                    "ayah": 5866,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5866.mp3",
+                    "bytes": 79403,
+                    "sha256": "f40f9643c5aa1e3e0b9cefa605f6024c93bd9d624af888ce61ac7607d08e9e4a"
+                },
+                {
+                    "ayah": 5867,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5867.mp3",
+                    "bytes": 59341,
+                    "sha256": "a8f36186eea2ef25a961f17b37bbde80652f7f522749ec5fc73ea60ccf93a94d"
+                },
+                {
+                    "ayah": 5868,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5868.mp3",
+                    "bytes": 40742,
+                    "sha256": "7789415aa57255cf9c86783fbb4a52a8c124d660e49f89be794b794f103f1a02"
+                },
+                {
+                    "ayah": 5869,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5869.mp3",
+                    "bytes": 39070,
+                    "sha256": "2666548d800d7af6d6c999ae8a4fbe20158b8c0f5e6703675909005715f24954"
+                },
+                {
+                    "ayah": 5870,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5870.mp3",
+                    "bytes": 52026,
+                    "sha256": "175a44ec7944a4b7512fb6c8fd5ca8060691a483ff103c4f9d4dfd1f88e6d397"
+                },
+                {
+                    "ayah": 5871,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5871.mp3",
+                    "bytes": 60595,
+                    "sha256": "692266318a139e0a10107357de74c667d1afce364233f215edfb5f82227e924a"
+                },
+                {
+                    "ayah": 5872,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5872.mp3",
+                    "bytes": 58505,
+                    "sha256": "f928eebe3fab8017837ac2773c5afd19dd5dc1bcd2e5e3359a21f0665d524969"
+                },
+                {
+                    "ayah": 5873,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5873.mp3",
+                    "bytes": 53907,
+                    "sha256": "f3b4b9496d287920285a1f85b81eb907788b27f187f3bbf079e6f2d2524674b9"
+                },
+                {
+                    "ayah": 5874,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5874.mp3",
+                    "bytes": 75850,
+                    "sha256": "47dc4c2bec0707ff7ab84f00f470e2569219fe5a1172bf8b2605caf2fc5077a8"
+                },
+                {
+                    "ayah": 5875,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5875.mp3",
+                    "bytes": 49728,
+                    "sha256": "18df3c998120a3f7060ae61e941977311451fa882ba0993714acf1f3c6e966f9"
+                },
+                {
+                    "ayah": 5876,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5876.mp3",
+                    "bytes": 56833,
+                    "sha256": "ab06640f91bb77d26629b1174c9fa166505219a78c3657f05e376f1215502988"
+                },
+                {
+                    "ayah": 5877,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5877.mp3",
+                    "bytes": 84209,
+                    "sha256": "6d200d8bc5dbda921d0f73adec96dd3d7bacaa248f7d6ad18103e485772a0c75"
+                },
+                {
+                    "ayah": 5878,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5878.mp3",
+                    "bytes": 48265,
+                    "sha256": "5fff67bf0237bb88a06aefb7663abad69e6dd83a83a17f240fba3764abe90707"
+                },
+                {
+                    "ayah": 5879,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5879.mp3",
+                    "bytes": 92569,
+                    "sha256": "ac9dd52874a290bf99008af230726f7807c11241c617f665e8b387e5f68df587"
+                },
+                {
+                    "ayah": 5880,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5880.mp3",
+                    "bytes": 122453,
+                    "sha256": "0554a66a67eafdc2a84871b5359c4577b2079ea8b52275172da9c02ebebde297"
+                },
+                {
+                    "ayah": 5881,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5881.mp3",
+                    "bytes": 62684,
+                    "sha256": "9a18a87304673db7c6b9cea41f315a3ddd13e383450d6958db488b6f5e55a6d5"
+                },
+                {
+                    "ayah": 5882,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5882.mp3",
+                    "bytes": 70208,
+                    "sha256": "a08ab97b660d55d2ec15ee294160501935d96cc709a7b444707f292860cedde4"
+                },
+                {
+                    "ayah": 5883,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5883.mp3",
+                    "bytes": 63729,
+                    "sha256": "37297fc68973497235e77c8e33b165b7bae7bb7899eeb3d48d2cfa94828dbc1a"
+                },
+                {
+                    "ayah": 5884,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5884.mp3",
+                    "bytes": 73760,
+                    "sha256": "7c69af86b71d9c0e9cead93a8b5ec0a9caf4879a806505a34023ca0c05929935"
+                },
+                {
+                    "ayah": 5885,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5885.mp3",
+                    "bytes": 45963,
+                    "sha256": "827965933c33086388629a4c608024784e062500ab6ddf46a7aa40e40348aa5b"
+                },
+                {
+                    "ayah": 5886,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5886.mp3",
+                    "bytes": 31126,
+                    "sha256": "d3a0692cba9c5f001dc1455cf9a42fed8388620354e683afe446673cf16f7d64"
+                },
+                {
+                    "ayah": 5887,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5887.mp3",
+                    "bytes": 23393,
+                    "sha256": "21c7e0707a2d9dbf23de9aea544de9a00f56a6fcb46af37bc4a44b436531d872"
+                },
+                {
+                    "ayah": 5888,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5888.mp3",
+                    "bytes": 33633,
+                    "sha256": "a4530329038c03bc2d423b2bb94a18371414e6fa557cc43ec0b5a15327a0049a"
+                },
+                {
+                    "ayah": 5889,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5889.mp3",
+                    "bytes": 32379,
+                    "sha256": "170eacaba085d9630e5f4526a4ebddf5b1e9666b5ab07fe9f397f0f2513de25d"
+                },
+                {
+                    "ayah": 5890,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5890.mp3",
+                    "bytes": 110329,
+                    "sha256": "6c457f714858e63fa9c399998f09e3193d9e8ec1e8ac0a71cb13d45399b947c0"
+                },
+                {
+                    "ayah": 5891,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5891.mp3",
+                    "bytes": 50352,
+                    "sha256": "081cb7196b5f9a65df11ef7eb08dde16d3f6b844746274c1a14b80e6dd432ff6"
+                },
+                {
+                    "ayah": 5892,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5892.mp3",
+                    "bytes": 43873,
+                    "sha256": "23bc37965caf3917dacd6689033da4c8fe02eb5ce767823bd219f225d1b20efe"
+                },
+                {
+                    "ayah": 5893,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5893.mp3",
+                    "bytes": 56412,
+                    "sha256": "6d8b3da2afedfc3284390531ab6611e75c591f497f852ca30cf335088313f83d"
+                },
+                {
+                    "ayah": 5894,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5894.mp3",
+                    "bytes": 66654,
+                    "sha256": "642d6ac04cd7c7c40a101f33eac4f33921f006721e639cf70e4942dda737ea93"
+                },
+                {
+                    "ayah": 5895,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5895.mp3",
+                    "bytes": 27575,
+                    "sha256": "e1c74c82c5679a9e651edb36bbdfc8a976b295d74ccba8354eb0036e78a02af0"
+                },
+                {
+                    "ayah": 5896,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5896.mp3",
+                    "bytes": 23186,
+                    "sha256": "354affab35efa3583183a8abffccf2629f27a9f4e26fb3f7b2201694d9c0a2a7"
+                },
+                {
+                    "ayah": 5897,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5897.mp3",
+                    "bytes": 57250,
+                    "sha256": "b561562cabf39dee2e5882f80e55f0e1050cd9549e4d605cf0d60ee10c74c2d9"
+                },
+                {
+                    "ayah": 5898,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5898.mp3",
+                    "bytes": 64982,
+                    "sha256": "75fc5a9fe9c0525f6e461b59afdd4ab3eaf7c44666c4af1aff46efc02227ecc3"
+                },
+                {
+                    "ayah": 5899,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5899.mp3",
+                    "bytes": 53488,
+                    "sha256": "b2f23a5b80fafa247680d29f1fdab264d208f9811735563bb0d8eb5275c3f5dd"
+                },
+                {
+                    "ayah": 5900,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5900.mp3",
+                    "bytes": 36143,
+                    "sha256": "c604f4d3c0ec5dd126df5c919439311ec4e3aedc3e6d82d55b6047c2b5861005"
+                },
+                {
+                    "ayah": 5901,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5901.mp3",
+                    "bytes": 23186,
+                    "sha256": "35806abba19daea65779d0a8e32bea4a148ce98b6fe5108dabe38a3b29b29e6a"
+                },
+                {
+                    "ayah": 5902,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5902.mp3",
+                    "bytes": 22350,
+                    "sha256": "9d8316bf952dc650123ef6a53e0f9c482bb8bd27f1b3f2a6b559f55e98c910e0"
+                },
+                {
+                    "ayah": 5903,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5903.mp3",
+                    "bytes": 44920,
+                    "sha256": "af0fdadde81e56b452cc9806c5e0b679af21d15f00e5087eae38dad5a29afc28"
+                },
+                {
+                    "ayah": 5904,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5904.mp3",
+                    "bytes": 41785,
+                    "sha256": "14a67fe4b81e9c49517b358760c76c9628d5bc87ca4b99111fb9e395e637d6bb"
+                },
+                {
+                    "ayah": 5905,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5905.mp3",
+                    "bytes": 65818,
+                    "sha256": "9fddc6e14c8627e755370fa620ec7ef01a332dbf092a37ec888750520994f4c3"
+                },
+                {
+                    "ayah": 5906,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5906.mp3",
+                    "bytes": 50145,
+                    "sha256": "9fbce78ef225fac37b5daabf8f567b6dc790ab88fcee2e9bfb282cf8e8373e83"
+                },
+                {
+                    "ayah": 5907,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5907.mp3",
+                    "bytes": 42203,
+                    "sha256": "0fb8a5df89d992fe9c1f3f3f38a933d2448231bc74f44ed41f82744fa62bc82d"
+                },
+                {
+                    "ayah": 5908,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5908.mp3",
+                    "bytes": 50145,
+                    "sha256": "0c74a9def019da33c971c8801475454e92934da469ba480da09338a02cd10301"
+                },
+                {
+                    "ayah": 5909,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5909.mp3",
+                    "bytes": 102181,
+                    "sha256": "3820e4c7365861d9bd9ac2fc358164ef011b615c4cbcf0223a2a7381eb585c13"
+                },
+                {
+                    "ayah": 5910,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5910.mp3",
+                    "bytes": 68530,
+                    "sha256": "4e31111dd9d9fa02fc092cbe9fadaf84e1eee296d35f23914247578103b219ab"
+                },
+                {
+                    "ayah": 5911,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5911.mp3",
+                    "bytes": 43661,
+                    "sha256": "bfcbbc061df2b9d18ae4e4614c8a7327f0ca7073d9e8f9bf673a963feb659996"
+                },
+                {
+                    "ayah": 5912,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5912.mp3",
+                    "bytes": 55573,
+                    "sha256": "02d2d8035515f5294507c192e2dc7fe7a1540de28dc9f116c800a591fdec419e"
+                },
+                {
+                    "ayah": 5913,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5913.mp3",
+                    "bytes": 49513,
+                    "sha256": "250fc2bc870ce79f59cd0716e2662fd2ca2faadff8642eddb761ab2a0074d827"
+                },
+                {
+                    "ayah": 5914,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5914.mp3",
+                    "bytes": 55573,
+                    "sha256": "dad092bb88f03487fcd03a0fec11b9e3b4da1b97bfc63b9d91db04988d521d61"
+                },
+                {
+                    "ayah": 5915,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5915.mp3",
+                    "bytes": 45333,
+                    "sha256": "fe3ced96c3ebc66ca573867a1639d692e8f81bedd6419d1a0bae3456218d707b"
+                },
+                {
+                    "ayah": 5916,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5916.mp3",
+                    "bytes": 70202,
+                    "sha256": "17dcbc3ec68f0748b1702b33b8d1514c996f65e85c925f27108a49a4bb2a7de1"
+                },
+                {
+                    "ayah": 5917,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5917.mp3",
+                    "bytes": 100086,
+                    "sha256": "5cfc8579f1f39373a0169d994e42b4617f1067d4bc67cc2571c2ce1e22a40b1f"
+                },
+                {
+                    "ayah": 5918,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5918.mp3",
+                    "bytes": 109699,
+                    "sha256": "17f4c461e99c7ebb3b00926603f5b31b78829ebacd1a941bd469f3eb6648716b"
+                },
+                {
+                    "ayah": 5919,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5919.mp3",
+                    "bytes": 145645,
+                    "sha256": "2724795b255e5e05f7a2106caedff7867e9f3b5b375ae303a70a6619ecbc218b"
+                },
+                {
+                    "ayah": 5920,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5920.mp3",
+                    "bytes": 175738,
+                    "sha256": "5199b21e9ffff73f4b23a8d68732a988206126a71569a75650a8e5aa46c250f8"
+                },
+                {
+                    "ayah": 5921,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5921.mp3",
+                    "bytes": 53903,
+                    "sha256": "669c33f0b6d6010a6dd11c150a6307998081ac39389c3f56eabc5d9ea0a23188"
+                },
+                {
+                    "ayah": 5922,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5922.mp3",
+                    "bytes": 59546,
+                    "sha256": "e60867965016170f501b976977446fb0d224bef9db8ebc551a3c5496b5944a6d"
+                },
+                {
+                    "ayah": 5923,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5923.mp3",
+                    "bytes": 45335,
+                    "sha256": "2f89c1ed62199a8cde6bf75ea346f69b69546cadc89b90987c310a846f5d96eb"
+                },
+                {
+                    "ayah": 5924,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5924.mp3",
+                    "bytes": 39275,
+                    "sha256": "6ccce6742f66688e229828131172c639b88656121a248311db0b5a4c1f6523ef"
+                },
+                {
+                    "ayah": 5925,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5925.mp3",
+                    "bytes": 40529,
+                    "sha256": "68c5c26da122a98833f59c4c4b9d5d9230a7b53fe4cfbcd035ba3cd218665d86"
+                },
+                {
+                    "ayah": 5926,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5926.mp3",
+                    "bytes": 44917,
+                    "sha256": "4b52c46f4a3d23846498802c76ce6be5b53ff14ff58e72520f52eb3013878092"
+                },
+                {
+                    "ayah": 5927,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5927.mp3",
+                    "bytes": 39693,
+                    "sha256": "11e2dd62e1898db2368790ae96f38079958703e3750d25299d1eb6532d5ae57a"
+                },
+                {
+                    "ayah": 5928,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5928.mp3",
+                    "bytes": 49515,
+                    "sha256": "8aaf0df74523b19d54ccc606f13f36324d6457989485812c36caa098e29b4087"
+                },
+                {
+                    "ayah": 5929,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5929.mp3",
+                    "bytes": 71040,
+                    "sha256": "ad17cbd6ce1bd9e3fa987807d5ad0de9ef7514fe495b75ac1f805f5af998f7e9"
+                },
+                {
+                    "ayah": 5930,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5930.mp3",
+                    "bytes": 50560,
+                    "sha256": "9d03463ff50f98ca8c3a0c35df074e48d6d7714f23815a599e1587c5c6f2a776"
+                },
+                {
+                    "ayah": 5931,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5931.mp3",
+                    "bytes": 60800,
+                    "sha256": "7e7037fa448166f6fb8f42680031835015cdc096578e30db3d4c2418a9209c48"
+                },
+                {
+                    "ayah": 5932,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5932.mp3",
+                    "bytes": 43452,
+                    "sha256": "caf107e6f7c02f47c266782a6564c360fabbf12a9b1b258f8c63c53ce60c1c3e"
+                },
+                {
+                    "ayah": 5933,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5933.mp3",
+                    "bytes": 42198,
+                    "sha256": "51421cd9e58c2a366fcdb27c26f12e0debd55ea9be1bff910dffc3f6867d0f97"
+                },
+                {
+                    "ayah": 5934,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5934.mp3",
+                    "bytes": 30914,
+                    "sha256": "88cf7861ef223783a53567349e5d5451fda1c070563d853232e0bb35e63143a9"
+                },
+                {
+                    "ayah": 5935,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5935.mp3",
+                    "bytes": 57454,
+                    "sha256": "e50e7d2169a32d29d107c4833e0b6afdcb4df1122cd704b7b1f2ba7d0b927816"
+                },
+                {
+                    "ayah": 5936,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5936.mp3",
+                    "bytes": 57245,
+                    "sha256": "8a767f2692a70ad2d46cc5cd2060920aa2c671abb19b403e85d445c7fc7500cc"
+                },
+                {
+                    "ayah": 5937,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5937.mp3",
+                    "bytes": 50976,
+                    "sha256": "4cd3f56d6d1d5e60bcb9ba3315bbecd9ef534bd23bd608a50fb005720730b58c"
+                },
+                {
+                    "ayah": 5938,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5938.mp3",
+                    "bytes": 60798,
+                    "sha256": "47ab693bbdb4ad7e3566f9e47324e6736d512cfa94bc95f639b2104dfea88efb"
+                },
+                {
+                    "ayah": 5939,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5939.mp3",
+                    "bytes": 44079,
+                    "sha256": "aa7bab458ce06b999263a31b83aec3ef6ab6ad57b6fe7731b3469e059bd533d8"
+                },
+                {
+                    "ayah": 5940,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5940.mp3",
+                    "bytes": 37601,
+                    "sha256": "9d418bab560d080dabee7d69f2de32f4895679238591f982eb9ab67a31b75453"
+                },
+                {
+                    "ayah": 5941,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5941.mp3",
+                    "bytes": 53694,
+                    "sha256": "04216b66ee12da43ea70487eebc213384ab1a5e211540cce52fee22570dca1f3"
+                },
+                {
+                    "ayah": 5942,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5942.mp3",
+                    "bytes": 39902,
+                    "sha256": "17ecc20d6951f1d6d465cb805655413a7ec12b7f2dbdca28afdeba5a26d46a60"
+                },
+                {
+                    "ayah": 5943,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5943.mp3",
+                    "bytes": 26527,
+                    "sha256": "2223f3646f37eeff478a9e285936912e222d7cd9cfd50cda0ee133c79f8422a2"
+                },
+                {
+                    "ayah": 5944,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5944.mp3",
+                    "bytes": 39693,
+                    "sha256": "3b0f37814f207be4a2a33a6a6fb2d2d08da973f75cf57d68d00b3446a604eddf"
+                },
+                {
+                    "ayah": 5945,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5945.mp3",
+                    "bytes": 21929,
+                    "sha256": "8edffd6040c1476d74c55483f69bbbd2e1f0baddca1c13baff1788a3c58c43de"
+                },
+                {
+                    "ayah": 5946,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5946.mp3",
+                    "bytes": 39484,
+                    "sha256": "73515033f7791e0e6c9ad3ce6c1c3534aee6b39d3f3a8aa5988f2d8dad244844"
+                },
+                {
+                    "ayah": 5947,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5947.mp3",
+                    "bytes": 23601,
+                    "sha256": "9f646b48f355ac4dc54183808f2250d09f829f4d0713314ff13f17ac875c5eb9"
+                },
+                {
+                    "ayah": 5948,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5948.mp3",
+                    "bytes": 59337,
+                    "sha256": "bc67726cce7bea7b73fe5543763b766233d8ae459138bfcb5bf023f7eb8e65fc"
+                },
+                {
+                    "ayah": 5949,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5949.mp3",
+                    "bytes": 33838,
+                    "sha256": "b126149fd820849e64f9fd8b4c461ac2a4f83db03bc7503707f6d80652cf5977"
+                },
+                {
+                    "ayah": 5950,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5950.mp3",
+                    "bytes": 29450,
+                    "sha256": "71fa50e39b4007d158b7366c95fc876912356d30f522943b7e2b3236d2df5c7c"
+                },
+                {
+                    "ayah": 5951,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5951.mp3",
+                    "bytes": 29450,
+                    "sha256": "42af162c7ce6eaf4567dc50fd4c48fba90ff699739f128090bbcd80698df4530"
+                },
+                {
+                    "ayah": 5952,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5952.mp3",
+                    "bytes": 42406,
+                    "sha256": "79934df33cc16733c04635672f40a4c725c885aad9c1fa987b7aa70eb41d38c4"
+                },
+                {
+                    "ayah": 5953,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5953.mp3",
+                    "bytes": 43869,
+                    "sha256": "ff04c5502922113e4d971b6e9fa6280aba48c591c7944df80bd47ac8f1551128"
+                },
+                {
+                    "ayah": 5954,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5954.mp3",
+                    "bytes": 35510,
+                    "sha256": "9efd2790c3d5791ae75ebbe79b4ceee13d4017c6c190df8566025f4cbacba4b1"
+                },
+                {
+                    "ayah": 5955,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5955.mp3",
+                    "bytes": 99458,
+                    "sha256": "69d78fd298479f58aded79095aa86e3e0a6e5aed62785d8dadab35a59db09c16"
+                },
+                {
+                    "ayah": 5956,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5956.mp3",
+                    "bytes": 28196,
+                    "sha256": "31f9cd26be45fe2a18fdfd36f63995408e502474f9dd90b7b6c97c1ca51ff00a"
+                },
+                {
+                    "ayah": 5957,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5957.mp3",
+                    "bytes": 40317,
+                    "sha256": "b39c5834f6eae298847fb661be88f21a4021236b0b31548ac51804028712701c"
+                },
+                {
+                    "ayah": 5958,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5958.mp3",
+                    "bytes": 38647,
+                    "sha256": "ba0460124bbf2ea429474fdfac51d124d0a002c5e113b58f6033109a06163fbf"
+                },
+                {
+                    "ayah": 5959,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5959.mp3",
+                    "bytes": 35512,
+                    "sha256": "78ee5dcb9798397ef5b7aabb7aa8da7dcbb9ab61499e5344a4c71c8eba867016"
+                },
+                {
+                    "ayah": 5960,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5960.mp3",
+                    "bytes": 42408,
+                    "sha256": "79927ef0ee1d9de973a55a33caf277fae29d7730d9d32915ae9210e86636526a"
+                },
+                {
+                    "ayah": 5961,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5961.mp3",
+                    "bytes": 53484,
+                    "sha256": "9a4aad0ff284f47461769531872d2c955aa24b8cee7435835950bd6669fd6e9c"
+                },
+                {
+                    "ayah": 5962,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5962.mp3",
+                    "bytes": 36348,
+                    "sha256": "140d8cd4739bb192b7acf3f4affc0a4bc1b321f25bb016aae5621137ff484734"
+                },
+                {
+                    "ayah": 5963,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5963.mp3",
+                    "bytes": 34676,
+                    "sha256": "d8a3beeea5ab09395262768b9523ede2b0940f819892f4735e6aa557b1667537"
+                },
+                {
+                    "ayah": 5964,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5964.mp3",
+                    "bytes": 37393,
+                    "sha256": "a4eeedef464dacc344039b3a0cc8448faae86c618cf24cef5bdc53c0795570aa"
+                },
+                {
+                    "ayah": 5965,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5965.mp3",
+                    "bytes": 40528,
+                    "sha256": "f63c638837116ac953350db930de20685efdb47880981057f6f21a7120775c11"
+                },
+                {
+                    "ayah": 5966,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5966.mp3",
+                    "bytes": 43453,
+                    "sha256": "879576ab3449b4c99798fdb6675f991a56fc0455c5aa4d0588d70c7816cde1dd"
+                },
+                {
+                    "ayah": 5967,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5967.mp3",
+                    "bytes": 48260,
+                    "sha256": "9773ab5214d7b45de3c9d6f14e0474235290312197980797d9cbe36f45070454"
+                },
+                {
+                    "ayah": 5968,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5968.mp3",
+                    "bytes": 33633,
+                    "sha256": "c33f9bfc709af2e9aab039075e92be4f7203282ad19842757348aa3fbfff3891"
+                },
+                {
+                    "ayah": 5969,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5969.mp3",
+                    "bytes": 41575,
+                    "sha256": "c7462e3d8a7c2b56488d1737d5cdb9d5184de16448847f1ed9f3e88aef3abe3e"
+                },
+                {
+                    "ayah": 5970,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5970.mp3",
+                    "bytes": 33842,
+                    "sha256": "02c45894ba0d87b89f4709d64c2bce5788a0c9b0e4d7b4cc4743403324310b63"
+                },
+                {
+                    "ayah": 5971,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5971.mp3",
+                    "bytes": 28827,
+                    "sha256": "f1cd079f288f90142f6155af0158435014e274ea13b792d82e5f0180654f6406"
+                },
+                {
+                    "ayah": 5972,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5972.mp3",
+                    "bytes": 32170,
+                    "sha256": "4f4d30a36e8e63cbb7e33072cd42cba7e5d78db0f17ec5fbed8d77cf8a6213ef"
+                },
+                {
+                    "ayah": 5973,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5973.mp3",
+                    "bytes": 60174,
+                    "sha256": "2693f49ed7cde63aaf59fb92307935233c0d57ed6a32e263c45573e826363a5c"
+                },
+                {
+                    "ayah": 5974,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5974.mp3",
+                    "bytes": 52859,
+                    "sha256": "8e7e76a56e5eacfabc844a2f252b97d0b627ec3a2b1eaeeeb179efe40825990c"
+                },
+                {
+                    "ayah": 5975,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5975.mp3",
+                    "bytes": 47008,
+                    "sha256": "49675b957640f323eeebc33c204cf73ea38bb7395dd46ed61e95ee7d8ff8c1a5"
+                },
+                {
+                    "ayah": 5976,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5976.mp3",
+                    "bytes": 25901,
+                    "sha256": "236e787226500d8f9b1c6129daed8f8d28d73d674040d3c9b4d2fa42ff9b23e2"
+                },
+                {
+                    "ayah": 5977,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5977.mp3",
+                    "bytes": 31963,
+                    "sha256": "ac1fd20adcdcc3b521cacd4c7f1f6ba1eebf19265408491dd5fa18e31890688c"
+                },
+                {
+                    "ayah": 5978,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5978.mp3",
+                    "bytes": 33844,
+                    "sha256": "bc5036b764704b1a9a5195fcb930786c17f7f8331aa4324b57161eb3fb614dda"
+                },
+                {
+                    "ayah": 5979,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5979.mp3",
+                    "bytes": 35307,
+                    "sha256": "09d8f0cf2fe710c609d6c008d262784c5e2b5cef8e822834ff48ca9d483c3ee2"
+                },
+                {
+                    "ayah": 5980,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5980.mp3",
+                    "bytes": 36561,
+                    "sha256": "7d170c0ee15c00d89c4fe0d95843cfe1189ca7d621b490ce345c8a47a9521c46"
+                },
+                {
+                    "ayah": 5981,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5981.mp3",
+                    "bytes": 34053,
+                    "sha256": "a0c70068a36226158259b260a5846462ce8e2c235bce808894c8a3d7055cf592"
+                },
+                {
+                    "ayah": 5982,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5982.mp3",
+                    "bytes": 26112,
+                    "sha256": "54e8f450fed93e878b53a39d1546db3f169334a664bf8582f080c071c3465cd9"
+                },
+                {
+                    "ayah": 5983,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5983.mp3",
+                    "bytes": 29874,
+                    "sha256": "3eb5442e47c56eea650448681d51091747e8dc3be9066ece848162ee69700bb1"
+                },
+                {
+                    "ayah": 5984,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5984.mp3",
+                    "bytes": 49727,
+                    "sha256": "f73751b3df3501627f9ace85ed44183dfe87a7c86e0ef0e5f6fe03a22cc7df24"
+                },
+                {
+                    "ayah": 5985,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5985.mp3",
+                    "bytes": 43457,
+                    "sha256": "c420cbbaa7b940f9f3e316b2e3c6d49a6d6fc50a20c8eeff77fcf4e8d7ddda5d"
+                },
+                {
+                    "ayah": 5986,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5986.mp3",
+                    "bytes": 30501,
+                    "sha256": "23e433846b4a5068781c3e9d1f4ea4e2ac39daf66225b7dd92e029aa883ee475"
+                },
+                {
+                    "ayah": 5987,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5987.mp3",
+                    "bytes": 28829,
+                    "sha256": "0d05d3a301503c83a29a8bda8b697384f656cd824165f37de24559aba2994ed8"
+                },
+                {
+                    "ayah": 5988,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5988.mp3",
+                    "bytes": 54951,
+                    "sha256": "348820d3f9393d2cf3a37d03ca1e5dd74abb83385e236839d5128bb3a2580b12"
+                },
+                {
+                    "ayah": 5989,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5989.mp3",
+                    "bytes": 33635,
+                    "sha256": "924878772d55605751a79ca6bf13624c746bd39e10c37f6f8193219cc03b9532"
+                },
+                {
+                    "ayah": 5990,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5990.mp3",
+                    "bytes": 36561,
+                    "sha256": "8482877c682e8c33f1de4878ae2101fe27d394393a0230d2545bb3182f0c1ed2"
+                },
+                {
+                    "ayah": 5991,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5991.mp3",
+                    "bytes": 42203,
+                    "sha256": "885ee520fb54c84265c9b77660c5323afa67c52d68b5d2d0c99d16e4c58e69be"
+                },
+                {
+                    "ayah": 5992,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5992.mp3",
+                    "bytes": 47428,
+                    "sha256": "8b6eee868929a0c9ea24839898d53fadcfd04eb8f530bd06ebbf4026c6363424"
+                },
+                {
+                    "ayah": 5993,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5993.mp3",
+                    "bytes": 59340,
+                    "sha256": "8fdd61dfae985ce4dd8b0cbd3fd14f1dc714331f6fc846b2acfa2d961a9d6363"
+                },
+                {
+                    "ayah": 5994,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5994.mp3",
+                    "bytes": 12939,
+                    "sha256": "c4dfceb3a50261de754129a5eb77f1ffaee5514ebaf400cc811a773b73839d12"
+                },
+                {
+                    "ayah": 5995,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5995.mp3",
+                    "bytes": 20881,
+                    "sha256": "ff857d97b3b801e8521a514806bd18be295d46cbbf4a4f737a30752a6207fa0a"
+                },
+                {
+                    "ayah": 5996,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5996.mp3",
+                    "bytes": 20672,
+                    "sha256": "b44ef15cee6c26be8821750a9a0c5927f55c3f30d38a3a7d3ffc0707181254e2"
+                },
+                {
+                    "ayah": 5997,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5997.mp3",
+                    "bytes": 24015,
+                    "sha256": "dc46629946d20d2022f281f50fe0881412f2746e423b586299693b892186e4e2"
+                },
+                {
+                    "ayah": 5998,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5998.mp3",
+                    "bytes": 36136,
+                    "sha256": "c90309b3a80be7691931c705a38a30c29bdd64fcc392f77cd56d128bc24de276"
+                },
+                {
+                    "ayah": 5999,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5999.mp3",
+                    "bytes": 49511,
+                    "sha256": "9905b883ab6f5493a739f338699ffa67467f386090a3703f0f51a56b0e948919"
+                },
+                {
+                    "ayah": 6000,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6000.mp3",
+                    "bytes": 36554,
+                    "sha256": "525931bd41a2601131a22c6035e58a60a6885e72dd266ca0369498d09612004b"
+                },
+                {
+                    "ayah": 6001,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6001.mp3",
+                    "bytes": 55153,
+                    "sha256": "b025bde56692c0469e670cd992a6aef58d5d9de93a154bfcf7c6ff32e15449b3"
+                },
+                {
+                    "ayah": 6002,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6002.mp3",
+                    "bytes": 58915,
+                    "sha256": "7509309cf3b8c53dd7dee49d12c2e6320fab41909c0c4e7bb1bcb3bded6dd6b9"
+                },
+                {
+                    "ayah": 6003,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6003.mp3",
+                    "bytes": 43452,
+                    "sha256": "0dbd9ad15d30874c1b6bfdaa5eec404fbc3e108e53b7ab88897d08d0605f35bf"
+                },
+                {
+                    "ayah": 6004,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6004.mp3",
+                    "bytes": 44079,
+                    "sha256": "9e81a255729cb2d421f39a723516aac2459671c8f3034c39d92a21934e36bb62"
+                },
+                {
+                    "ayah": 6005,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6005.mp3",
+                    "bytes": 43243,
+                    "sha256": "744a979e1c541440fcdbfec3d7229b8bbab7a85ea64888022a51fd2d091f296d"
+                },
+                {
+                    "ayah": 6006,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6006.mp3",
+                    "bytes": 53065,
+                    "sha256": "3ec0d00b681bf2147aefdb16c834ffd97fbee757db3ecf34bb83c69278dc67bb"
+                },
+                {
+                    "ayah": 6007,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6007.mp3",
+                    "bytes": 52020,
+                    "sha256": "1c09c69dc102ed923b77f89cd6640124463a446046607eb50c97f180957f62dc"
+                },
+                {
+                    "ayah": 6008,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6008.mp3",
+                    "bytes": 122029,
+                    "sha256": "fbd90699946bfee9130278cd05501b03eee7cc1a10d09652bdc244781b0d73c0"
+                },
+                {
+                    "ayah": 6009,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6009.mp3",
+                    "bytes": 103429,
+                    "sha256": "54aa3005a3bd3414cf8084ca3d6a9e33c6100f03fbe3edff6c4b647b08765115"
+                },
+                {
+                    "ayah": 6010,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6010.mp3",
+                    "bytes": 58290,
+                    "sha256": "7fde05fa36d9aef8526dc2a3aa86a769bc2401507150af90f75844b2dd8ac8c0"
+                },
+                {
+                    "ayah": 6011,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6011.mp3",
+                    "bytes": 77307,
+                    "sha256": "396086a20dec4d0fca4564f2087386126146c1bfef5ae81339e696bfc5051109"
+                },
+                {
+                    "ayah": 6012,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6012.mp3",
+                    "bytes": 47632,
+                    "sha256": "9a08e37a0b42f1bbb24ac1de1dcd527ecd41a27ac7ddfa18a266a7fee0030974"
+                },
+                {
+                    "ayah": 6013,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6013.mp3",
+                    "bytes": 54528,
+                    "sha256": "6946a27178913ab25d22be0042c7b5e23768125406b2182b6b84ec53aabf8932"
+                },
+                {
+                    "ayah": 6014,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6014.mp3",
+                    "bytes": 56200,
+                    "sha256": "37adc43a269e82608723034337935e8235f07261057e96f85ddfa0527afa7d3b"
+                },
+                {
+                    "ayah": 6015,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6015.mp3",
+                    "bytes": 61007,
+                    "sha256": "a74a16198c39151fcb196de4aea2c4e4b903fc9798f2227796eda5757b33ff4e"
+                },
+                {
+                    "ayah": 6016,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6016.mp3",
+                    "bytes": 134776,
+                    "sha256": "201237b2f40c04be189137875ef01e9cbfec61b71b96ab0d5ad15595ff450831"
+                },
+                {
+                    "ayah": 6017,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6017.mp3",
+                    "bytes": 44915,
+                    "sha256": "7a79ebfe44afa644e1f2617cc3a22468115dace60baf6b1caf8277b91450cfc8"
+                },
+                {
+                    "ayah": 6018,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6018.mp3",
+                    "bytes": 56827,
+                    "sha256": "4526ab17603e6ca7d773bc47ff70129f059aa99cf6b5133b234972d9939ff77f"
+                },
+                {
+                    "ayah": 6019,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6019.mp3",
+                    "bytes": 43661,
+                    "sha256": "00d9042912963a63140d08d8ffb666e920e589da22b7e78c8dd1d4ded8b61f59"
+                },
+                {
+                    "ayah": 6020,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6020.mp3",
+                    "bytes": 66231,
+                    "sha256": "7b1bc570573f6826593dc00f8e925ee7b4c4992371d3f1ce61dbe6223bc2b01b"
+                },
+                {
+                    "ayah": 6021,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6021.mp3",
+                    "bytes": 62469,
+                    "sha256": "0c1795e0628bd1282df3093281d5dd9122f510e49f6a6da2f197f2681deb7d74"
+                },
+                {
+                    "ayah": 6022,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6022.mp3",
+                    "bytes": 27152,
+                    "sha256": "21ced39e82ff23bd6e6fe3a43afa967f8eba93ae5913cc7726712417dc08a2c2"
+                },
+                {
+                    "ayah": 6023,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6023.mp3",
+                    "bytes": 38646,
+                    "sha256": "1ac85284760238fb2d9d2d4ee3f55f2c9370749feb5fcb7443365cff4ee05c73"
+                },
+                {
+                    "ayah": 6024,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6024.mp3",
+                    "bytes": 47422,
+                    "sha256": "93c4592c729ae5036df8e7428201660be9a92b3f1eee01f04a0f766cfb98eadb"
+                },
+                {
+                    "ayah": 6025,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6025.mp3",
+                    "bytes": 47004,
+                    "sha256": "65bf8b8d5c3cdc6565353e163f63cfd96454b40fb0f8b5473476bf52003f53bb"
+                },
+                {
+                    "ayah": 6026,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6026.mp3",
+                    "bytes": 31957,
+                    "sha256": "a10042f476ed4ed56d40fee723ed6e157836e637dc777d21e50d466434c19ac1"
+                },
+                {
+                    "ayah": 6027,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6027.mp3",
+                    "bytes": 44705,
+                    "sha256": "ca3bce260238c2337ff001fe6583780af7102bfc0e87d40998306aad935149bd"
+                },
+                {
+                    "ayah": 6028,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6028.mp3",
+                    "bytes": 45332,
+                    "sha256": "d3986fc116244e78ef346d9697544297d636152f623210802fb63c38ce8dc1d9"
+                },
+                {
+                    "ayah": 6029,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6029.mp3",
+                    "bytes": 36764,
+                    "sha256": "9bbdd26ff8a63515f4f2c2616dc6984250aa716fa7f130dc33fe66b64b7f9c33"
+                },
+                {
+                    "ayah": 6030,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6030.mp3",
+                    "bytes": 43869,
+                    "sha256": "98afb89a80af3502b55aaa675fb089e4e95e4ec58d66a9297d6fd5d7e12dc24e"
+                },
+                {
+                    "ayah": 6031,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6031.mp3",
+                    "bytes": 46168,
+                    "sha256": "d671c6e024c9fd6f3c23ef7f3b3ac7f566d1ef0bf648277d4cbde1244ff9464f"
+                },
+                {
+                    "ayah": 6032,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6032.mp3",
+                    "bytes": 48676,
+                    "sha256": "c5927a1057e0af3e359d773e8837f01d765d26c759e9cdfe47678d012e572999"
+                },
+                {
+                    "ayah": 6033,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6033.mp3",
+                    "bytes": 48678,
+                    "sha256": "fedbc0131c8f0297d210e630f6f9198afe5c2d22ec10cb88150da50941c80778"
+                },
+                {
+                    "ayah": 6034,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6034.mp3",
+                    "bytes": 24018,
+                    "sha256": "173cd236844e6c92099186756c3c5bb6a236f7b17b13304d494f8484ca5490d3"
+                },
+                {
+                    "ayah": 6035,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6035.mp3",
+                    "bytes": 40946,
+                    "sha256": "4fdf0f1a3656f1423501e8b6888f2a109adfbf660b4bbdfad65baa9f9a2391ed"
+                },
+                {
+                    "ayah": 6036,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6036.mp3",
+                    "bytes": 17331,
+                    "sha256": "6f5c4fa68502087233c7a5b636dbd10f21200d53bc2301749820cf6f86e83acf"
+                },
+                {
+                    "ayah": 6037,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6037.mp3",
+                    "bytes": 51604,
+                    "sha256": "1b213071c55e8e66f9322a5b8ccfd123457b7205ed6d81cc5133c9190fb7fbcf"
+                },
+                {
+                    "ayah": 6038,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6038.mp3",
+                    "bytes": 30706,
+                    "sha256": "c15228c5d217a84c23433483e63b36290096449fa9517ad0d91cd7035c86bed4"
+                },
+                {
+                    "ayah": 6039,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6039.mp3",
+                    "bytes": 37811,
+                    "sha256": "01ef1a70ac838df913f55ef954ed524b1dc7333d43ff1b07fc0d79b4b2587bf6"
+                },
+                {
+                    "ayah": 6040,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6040.mp3",
+                    "bytes": 83159,
+                    "sha256": "b18b1c1f5acd1489829efaa91af58521d5f4cae68f56c68037d3901ec61bb8f6"
+                },
+                {
+                    "ayah": 6041,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6041.mp3",
+                    "bytes": 47424,
+                    "sha256": "0d061c75b6842c19d0833efebd1e3f24819ff6ae997eae94969f94180a73119a"
+                },
+                {
+                    "ayah": 6042,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6042.mp3",
+                    "bytes": 59336,
+                    "sha256": "8f33db3d12b9f711f2e77e0a0d9de104edfa4bd10d4fd5bc71aa8093a0ea786c"
+                },
+                {
+                    "ayah": 6043,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6043.mp3",
+                    "bytes": 46379,
+                    "sha256": "ecd3622974a03534ed1687f7fb0bc93bf4017508775617f82fbccb06bb8a114d"
+                },
+                {
+                    "ayah": 6044,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6044.mp3",
+                    "bytes": 26316,
+                    "sha256": "39365f0211f00b3bb641f36e7135acd4578adc177edfc4a68729e4bd43684e90"
+                },
+                {
+                    "ayah": 6045,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6045.mp3",
+                    "bytes": 29451,
+                    "sha256": "2da9fe58c1ba9e0a75003d66a36ee69aa03d66ae16f27ff27fed897609db2a05"
+                },
+                {
+                    "ayah": 6046,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6046.mp3",
+                    "bytes": 39482,
+                    "sha256": "3db17f0239fe7adf3c9e7b186a7a65d782b3090af47d7045f3430449aff0ea69"
+                },
+                {
+                    "ayah": 6047,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6047.mp3",
+                    "bytes": 30914,
+                    "sha256": "6df13b9520b185fc13a7101c83a5c0d55aa9dcf8855dff643d64686a2b72026f"
+                },
+                {
+                    "ayah": 6048,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6048.mp3",
+                    "bytes": 41363,
+                    "sha256": "99d4c06a2f1222d7e07ea6dba609d0deeae1b3ca8c1e323e25850ccf5ae6c76e"
+                },
+                {
+                    "ayah": 6049,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6049.mp3",
+                    "bytes": 28197,
+                    "sha256": "afd6bb4b3dd837076ad9d80939ef2a40f7c04abf829da4eb34acd16fe1b428ed"
+                },
+                {
+                    "ayah": 6050,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6050.mp3",
+                    "bytes": 36138,
+                    "sha256": "85ac61b2417feae87f3774a5e2a67d3ef2d302d44a7473872012d8a871147a93"
+                },
+                {
+                    "ayah": 6051,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6051.mp3",
+                    "bytes": 42825,
+                    "sha256": "5495c59763c2fd9a3103edee0c1f74d42e9f1287050acfff0fb8434d5c9be257"
+                },
+                {
+                    "ayah": 6052,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6052.mp3",
+                    "bytes": 34466,
+                    "sha256": "5df73cdca4717a0e1a247b7b47f491f06544dff929a2de654034195d63a147fe"
+                },
+                {
+                    "ayah": 6053,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6053.mp3",
+                    "bytes": 36140,
+                    "sha256": "16cfddd70cf4a1cb7cff5dd03837b292fb6e46b431502ce8dee51bdf644b261d"
+                },
+                {
+                    "ayah": 6054,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6054.mp3",
+                    "bytes": 33841,
+                    "sha256": "d7de5d0a47392078d545c8ad174963d6833e423f45d8ebb13bb094332a59db10"
+                },
+                {
+                    "ayah": 6055,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6055.mp3",
+                    "bytes": 31960,
+                    "sha256": "de1e0d8e7a997c290e83aaa644c8c319e020aaf3cfef84f48f26af619c0eb531"
+                },
+                {
+                    "ayah": 6056,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6056.mp3",
+                    "bytes": 59755,
+                    "sha256": "10daad877479e4a4991cb30028ac6facfb2beaad0f44bd6871519a7e3724b30a"
+                },
+                {
+                    "ayah": 6057,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6057.mp3",
+                    "bytes": 89012,
+                    "sha256": "d00a7503506734b1fdc24e5ba2795e22544dcaa32110546f145589a9d30e9898"
+                },
+                {
+                    "ayah": 6058,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6058.mp3",
+                    "bytes": 46589,
+                    "sha256": "d74dc0a172d7a126b64cbcf77f5496d01ae94b50b5ad392f2d707a50afa5c2fd"
+                },
+                {
+                    "ayah": 6059,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6059.mp3",
+                    "bytes": 27986,
+                    "sha256": "e49690cf442c0a09488d0a0bf35fc55fd3d0bda5fcf2eebf1fadb6c08ecc0cdf"
+                },
+                {
+                    "ayah": 6060,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6060.mp3",
+                    "bytes": 36763,
+                    "sha256": "26acd8da78dac1d0bccc480073383be8baeddfe2d3eca8785bec7160043b791e"
+                },
+                {
+                    "ayah": 6061,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6061.mp3",
+                    "bytes": 41570,
+                    "sha256": "95f52661071abeb15528e360795d87f2e99609b82863b93de684b02b23a31ad7"
+                },
+                {
+                    "ayah": 6062,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6062.mp3",
+                    "bytes": 35718,
+                    "sha256": "c9700021a109463bca59d026cccc9845bd58174a504771f1f50197b2eaa4c174"
+                },
+                {
+                    "ayah": 6063,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6063.mp3",
+                    "bytes": 39689,
+                    "sha256": "caa05e578765423c4aff698721926e968c8591c37df9edd1054047bc39e4d615"
+                },
+                {
+                    "ayah": 6064,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6064.mp3",
+                    "bytes": 25060,
+                    "sha256": "af94e9613b6bc5ebeb83571f286aa31c5b6f66612057f09ea3bfa2753f63e550"
+                },
+                {
+                    "ayah": 6065,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6065.mp3",
+                    "bytes": 31747,
+                    "sha256": "653a8f91056e8c4ea726abe30aee38f23b5d15f0939d7046e1b5b1e201bbfa18"
+                },
+                {
+                    "ayah": 6066,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6066.mp3",
+                    "bytes": 41152,
+                    "sha256": "fb5f73437e5630e062d40c19ae11e4d2f4f7447c7aa91c67b3fdfa29cb4d49aa"
+                },
+                {
+                    "ayah": 6067,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6067.mp3",
+                    "bytes": 24433,
+                    "sha256": "059bb7238de2c0dd80bda0606acb3ead18583f87ccb58f1fa9d7c321df3d2ee2"
+                },
+                {
+                    "ayah": 6068,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6068.mp3",
+                    "bytes": 30287,
+                    "sha256": "094205f27afced62c4a6b991a1ba9efb89b197621fad396997448d44758c4452"
+                },
+                {
+                    "ayah": 6069,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6069.mp3",
+                    "bytes": 57245,
+                    "sha256": "636edb2693287a7f6a0926047cc4205c2e77d450402131005c43d79d5d4ba415"
+                },
+                {
+                    "ayah": 6070,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6070.mp3",
+                    "bytes": 31749,
+                    "sha256": "4e9cb94d32b612d329f3180dc678ba3f93af4037e429a835b00e88f055173859"
+                },
+                {
+                    "ayah": 6071,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6071.mp3",
+                    "bytes": 47005,
+                    "sha256": "b15a02af57c7cf0cb6c939bec15788de2339ee5c09a04b31efac3e28320be688"
+                },
+                {
+                    "ayah": 6072,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6072.mp3",
+                    "bytes": 47632,
+                    "sha256": "c3cb3c08f4907fd4771cfe646d63709ec989b5d13e4378fdd8941740d4c60fd0"
+                },
+                {
+                    "ayah": 6073,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6073.mp3",
+                    "bytes": 46169,
+                    "sha256": "aca3f337c3b8fb8624635b902bfc129e505ccd4c5f0d70c83bf4eec27d33581d"
+                },
+                {
+                    "ayah": 6074,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6074.mp3",
+                    "bytes": 33839,
+                    "sha256": "53feebf0f065fb72d581357427e62202c4cf6b1d9df71f8421e6569ef98fa64c"
+                },
+                {
+                    "ayah": 6075,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6075.mp3",
+                    "bytes": 38437,
+                    "sha256": "4a8ad92fbc91cc26ecadce6c34aaa57a3010b13df6a1a3d9d17c80d59c90bd31"
+                },
+                {
+                    "ayah": 6076,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6076.mp3",
+                    "bytes": 40945,
+                    "sha256": "d0f75433fe865df4a799f47531f43b2fe6671b32d95554816d3bde6cc2dfc6a4"
+                },
+                {
+                    "ayah": 6077,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6077.mp3",
+                    "bytes": 64559,
+                    "sha256": "a5359d6ceef2d223a99070bcfb7243cce78283beba6d7f53fd848cebc63e3015"
+                },
+                {
+                    "ayah": 6078,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6078.mp3",
+                    "bytes": 52856,
+                    "sha256": "499734eff8a0a801ed9570f477a8c54bc7abdc167891c692ecc2aa2e5462ddd2"
+                },
+                {
+                    "ayah": 6079,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6079.mp3",
+                    "bytes": 33839,
+                    "sha256": "790b661d0ac23272bdf63d13a42ee741f45b2266866bc414a1eb99feb3d01bef"
+                },
+                {
+                    "ayah": 6080,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6080.mp3",
+                    "bytes": 16285,
+                    "sha256": "7f41dbd54cec58ab92b9f48e2f13ab4ec3bfc4498af54577f6332c98a1316019"
+                },
+                {
+                    "ayah": 6081,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6081.mp3",
+                    "bytes": 25689,
+                    "sha256": "b4e625e3dbcd2eb95666ec334d70087cf8a63567d7a25b33ecb71506efc54619"
+                },
+                {
+                    "ayah": 6082,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6082.mp3",
+                    "bytes": 36765,
+                    "sha256": "0c1d67536290d3a17d1e8108acf39fc6df59e9d7acf3078b4992e25be532f64c"
+                },
+                {
+                    "ayah": 6083,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6083.mp3",
+                    "bytes": 42825,
+                    "sha256": "8e5b56ffd90443d0e8be2e672c1475f91daf54ea606b5f8aac593c78afdd7aa4"
+                },
+                {
+                    "ayah": 6084,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6084.mp3",
+                    "bytes": 41572,
+                    "sha256": "2208eff0b6dc765764320a9ed29768e57298fc769dc0f2cf9db3666baa0a6f97"
+                },
+                {
+                    "ayah": 6085,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6085.mp3",
+                    "bytes": 43243,
+                    "sha256": "c300ad93d5fa980c415e9a2c4e748de41c656b8f0b918fc57aff77743f3c598d"
+                },
+                {
+                    "ayah": 6086,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6086.mp3",
+                    "bytes": 58290,
+                    "sha256": "7b9090a86b162d0cf8c5592c3df56b62003f5cffc6db3032559668480ac664c9"
+                },
+                {
+                    "ayah": 6087,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6087.mp3",
+                    "bytes": 50349,
+                    "sha256": "8542ed774b81f619b3ccc00522bdf6ac23de366fc5c36b234ed1006d730885be"
+                },
+                {
+                    "ayah": 6088,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6088.mp3",
+                    "bytes": 40736,
+                    "sha256": "ed68f87e56b1711e4f0a2fdb76925fcb9c9ad49d1d64a34cda4d072c4f8dbb80"
+                },
+                {
+                    "ayah": 6089,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6089.mp3",
+                    "bytes": 51396,
+                    "sha256": "6f3c2ca18d7b924050c296f7f0f016c8390a2e548c7a48772f1fd1c45deeffb7"
+                },
+                {
+                    "ayah": 6090,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6090.mp3",
+                    "bytes": 48470,
+                    "sha256": "e6e0360d9bddcb0dc6eada3857cf905e0c1bf0545157e67a5c77a56b87154ace"
+                },
+                {
+                    "ayah": 6091,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6091.mp3",
+                    "bytes": 30078,
+                    "sha256": "985c6da135c3351cab9d59c43d9704ba7a311bc3b843a90efd01aa8967fbc84c"
+                },
+                {
+                    "ayah": 6092,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6092.mp3",
+                    "bytes": 36556,
+                    "sha256": "4744d248c61c892b70c6de2ae41335b3fce55cf8cd3f720478b6f2778c8cdea5"
+                },
+                {
+                    "ayah": 6093,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6093.mp3",
+                    "bytes": 45751,
+                    "sha256": "c8a87e168fab038ca379236601cae2391d0bf3256ad96a0e0d3523e1750a5392"
+                },
+                {
+                    "ayah": 6094,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6094.mp3",
+                    "bytes": 29869,
+                    "sha256": "cc58bff2e46c0e4be1c2a4338c6d14a29a87b453c5f6fa5618fbdefa2afc5071"
+                },
+                {
+                    "ayah": 6095,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6095.mp3",
+                    "bytes": 37183,
+                    "sha256": "6243e9655847958f75e26ff64811d8fb91b75173768f1e05112cc3821997b58d"
+                },
+                {
+                    "ayah": 6096,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6096.mp3",
+                    "bytes": 34675,
+                    "sha256": "08243978eabf2fe3ebe335f6347eccac0726ada92cd9d7532e694119061d3be5"
+                },
+                {
+                    "ayah": 6097,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6097.mp3",
+                    "bytes": 35093,
+                    "sha256": "0737525be0f3fe95a1e8cf11d2f508d47707496e3d9917b7e18817e1583fa2f1"
+                },
+                {
+                    "ayah": 6098,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6098.mp3",
+                    "bytes": 35302,
+                    "sha256": "43f48d2240432334b0cce18d6b3785680766218e41de9bfe067e44bcc731639c"
+                },
+                {
+                    "ayah": 6099,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6099.mp3",
+                    "bytes": 39897,
+                    "sha256": "6f90ddaa89e0a3739614280c81242eea1b50d810a0cda7c7a91d6eb275acd639"
+                },
+                {
+                    "ayah": 6100,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6100.mp3",
+                    "bytes": 34463,
+                    "sha256": "2bc327cdeb7c69841532e3ad25a55459003059f075e06cc2b1394c1482566dc4"
+                },
+                {
+                    "ayah": 6101,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6101.mp3",
+                    "bytes": 40106,
+                    "sha256": "334827c4c51599007a5c8ee3ee88502d3062cbf86d9e200ae28c20e03d7457cb"
+                },
+                {
+                    "ayah": 6102,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6102.mp3",
+                    "bytes": 71244,
+                    "sha256": "a206caa1c7f989fe72ce29bf6062dffe1735c95914bbadd221aa69225c458db4"
+                },
+                {
+                    "ayah": 6103,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6103.mp3",
+                    "bytes": 57451,
+                    "sha256": "d8fe6fb8b24651e4580b9cf8cdec94163bf946df30415d967d8fb75fff2c42f2"
+                },
+                {
+                    "ayah": 6104,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6104.mp3",
+                    "bytes": 86081,
+                    "sha256": "2c7edd208149e350ec7f1487ad1f4e8370384461fba5dc3753cc3792d3e4b19e"
+                },
+                {
+                    "ayah": 6105,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6105.mp3",
+                    "bytes": 50137,
+                    "sha256": "79b15de4e7b24e0f5d642cd9c5e9b044cf0a313aca2cc8aef10684cec4cf78c6"
+                },
+                {
+                    "ayah": 6106,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6106.mp3",
+                    "bytes": 106143,
+                    "sha256": "063f6198100e1d137618cf0621d145a5d67a27c3dc2ea860f0bb053255ff9a93"
+                },
+                {
+                    "ayah": 6107,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6107.mp3",
+                    "bytes": 36345,
+                    "sha256": "c9e637d8e1a8afa4197bc8551cc051eeb521cf8bbc2919731a378a58d9463685"
+                },
+                {
+                    "ayah": 6108,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6108.mp3",
+                    "bytes": 36972,
+                    "sha256": "665e24b4b0f4f5e7ef43741a470802f91f5a8e2474357d446bd1a86114c96b28"
+                },
+                {
+                    "ayah": 6109,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6109.mp3",
+                    "bytes": 28613,
+                    "sha256": "768996675c97a128d63f30b36266e19ee45f71694731a05806c0e6b458da93ed"
+                },
+                {
+                    "ayah": 6110,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6110.mp3",
+                    "bytes": 28822,
+                    "sha256": "7c7d68dfb88d890c6edbae1703c8c22dcd49f52a1150dc74356c16d3f3d7cd51"
+                },
+                {
+                    "ayah": 6111,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6111.mp3",
+                    "bytes": 41778,
+                    "sha256": "e9f0a08a7f2447bdb33d60118f8f648e01ef2fbd0a1f9ff8a74bdb80110fe9b8"
+                },
+                {
+                    "ayah": 6112,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6112.mp3",
+                    "bytes": 58288,
+                    "sha256": "4216bdbb28e7ae3b96c9135b0e1687fa4acd47c0927d3b9063c346459348c64e"
+                },
+                {
+                    "ayah": 6113,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6113.mp3",
+                    "bytes": 25060,
+                    "sha256": "1bd7d0c74531c17431a18e80a8b8312eb0ccce0867b2e3b377dbf00e1d55d489"
+                },
+                {
+                    "ayah": 6114,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6114.mp3",
+                    "bytes": 36554,
+                    "sha256": "e1041766251042abc078a3e46425906db150b4d313219108ca08bc1d18ec7c2d"
+                },
+                {
+                    "ayah": 6115,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6115.mp3",
+                    "bytes": 27359,
+                    "sha256": "89d30a37f7b434d3c4422603077864e84b1a568f35cb3e22f9913cf46fc4aa43"
+                },
+                {
+                    "ayah": 6116,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6116.mp3",
+                    "bytes": 25689,
+                    "sha256": "0675d0cafa972494dfc64180edeb00859e9f0f7be22f38a1554da538b94e9905"
+                },
+                {
+                    "ayah": 6117,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6117.mp3",
+                    "bytes": 36974,
+                    "sha256": "375d6b46d413f3b84ba781e9bd3823e5f91ccdb5e91c872731bed0aca3384fd1"
+                },
+                {
+                    "ayah": 6118,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6118.mp3",
+                    "bytes": 24853,
+                    "sha256": "518a01877f5dcea1c981d59f8da47d64a2f2c4603e6d84ad3bcde04587f3f890"
+                },
+                {
+                    "ayah": 6119,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6119.mp3",
+                    "bytes": 38019,
+                    "sha256": "0e120cddf5cdb351616c019d9b4475a9b17785f07833758d76b94e6355643531"
+                },
+                {
+                    "ayah": 6120,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6120.mp3",
+                    "bytes": 46169,
+                    "sha256": "e705691d82782193e067b3395fabf354c86bcc66a18fe65e89acb4ba73575b8d"
+                },
+                {
+                    "ayah": 6121,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6121.mp3",
+                    "bytes": 71038,
+                    "sha256": "661ac791f3e5f8ce72b5a5137ea6e6ee1dadadfee436ca80fbf75550da4bba29"
+                },
+                {
+                    "ayah": 6122,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6122.mp3",
+                    "bytes": 38646,
+                    "sha256": "0a57d23c48e8c07c64eb9639fe6ac6283c5f6013b9ccc053b0c9df0de158532c"
+                },
+                {
+                    "ayah": 6123,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6123.mp3",
+                    "bytes": 21718,
+                    "sha256": "715cf00c293261040c2f3a987f1c22e43e44f9e6a8252dde4eb0d49855187d95"
+                },
+                {
+                    "ayah": 6124,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6124.mp3",
+                    "bytes": 24644,
+                    "sha256": "3201ed276cb76bf53014d995b0a018ae6d8d13b01a6c5436b575822d2ac149c0"
+                },
+                {
+                    "ayah": 6125,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6125.mp3",
+                    "bytes": 49722,
+                    "sha256": "70dc0a6b8e277489a36b9e379fe787f11b60601dbf1f231b0a03dc8dc27090f9"
+                },
+                {
+                    "ayah": 6126,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6126.mp3",
+                    "bytes": 65184,
+                    "sha256": "a6e198ab729784e0c56a356bd1cc2e887d1acaaac23ef4c6c34e6ec7158e9a85"
+                },
+                {
+                    "ayah": 6127,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6127.mp3",
+                    "bytes": 49511,
+                    "sha256": "30d361efb3930eb2b7883934a0cb066b9e578dba84b864af4cd88992ce422393"
+                },
+                {
+                    "ayah": 6128,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6128.mp3",
+                    "bytes": 45749,
+                    "sha256": "cc5a69500e341b0c58bfdad65851eccb8bd9839859abaf6e9b02beb1cd919732"
+                },
+                {
+                    "ayah": 6129,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6129.mp3",
+                    "bytes": 90053,
+                    "sha256": "4f96c83b17332a111fee97522291557cad884df1b3a53895d9bb0fadb9a6c468"
+                },
+                {
+                    "ayah": 6130,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6130.mp3",
+                    "bytes": 43241,
+                    "sha256": "6c8e80e4982858ab4554fe58deffec9b80562c4611f5bf99d5bd6b90bfd4de1d"
+                },
+                {
+                    "ayah": 6131,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6131.mp3",
+                    "bytes": 101968,
+                    "sha256": "71bef2c2e5ce8bfa80d1f40b0295a6b027b1949a6a6b9ba05c22d582b4e9a2e1"
+                },
+                {
+                    "ayah": 6132,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6132.mp3",
+                    "bytes": 59127,
+                    "sha256": "6bc28b823792b4b6804f9b99d66e67d61aa38c8ea95dd0eef7791ee345555708"
+                },
+                {
+                    "ayah": 6133,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6133.mp3",
+                    "bytes": 34049,
+                    "sha256": "d04944879c3510d6b8bea86cd9fbfaf4222288fbc73ec6f444c7341bc35acca6"
+                },
+                {
+                    "ayah": 6134,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6134.mp3",
+                    "bytes": 95907,
+                    "sha256": "8c8877983d0ec7bd9d3e58b7d682acd46fb1453dcddf4624402b3b45c0fe5221"
+                },
+                {
+                    "ayah": 6135,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6135.mp3",
+                    "bytes": 166960,
+                    "sha256": "3fdcd5569b63afc6f69d315c811e2f2ac0a7c2adb9343f1d2f74d0276032a58c"
+                },
+                {
+                    "ayah": 6136,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6136.mp3",
+                    "bytes": 147107,
+                    "sha256": "dc09c99f536ada2f429a6e19c58db5236950e6dc1555c67ef963c14100501722"
+                },
+                {
+                    "ayah": 6137,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6137.mp3",
+                    "bytes": 94444,
+                    "sha256": "d13fb18ed89195eef454907998f02b803d31b8fae9b55cda73ea42cc55b79eaf"
+                },
+                {
+                    "ayah": 6138,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6138.mp3",
+                    "bytes": 217951,
+                    "sha256": "76bb0e6d56408f53ffcdf74d8229c4a5b7a09bb1527b942e5799638333acd007"
+                },
+                {
+                    "ayah": 6139,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6139.mp3",
+                    "bytes": 39692,
+                    "sha256": "345e53dabe91c8bbecfe4849c508ad0712f4cdbd2d8b4988f02e93ff8cad2d0d"
+                },
+                {
+                    "ayah": 6140,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6140.mp3",
+                    "bytes": 37393,
+                    "sha256": "9ad590548cf2c33220fe4beabb31e7f90d8b661a8f8776ce5f981f796848f54f"
+                },
+                {
+                    "ayah": 6141,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6141.mp3",
+                    "bytes": 41990,
+                    "sha256": "e28190dcd8d0e2119a3ea421f515cf1f681a51bb8b3d5dd440b93d4a202ed6cd"
+                },
+                {
+                    "ayah": 6142,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6142.mp3",
+                    "bytes": 44707,
+                    "sha256": "0709c3b6a8d6e0655f7ff5636233f06bcf2fb775e1e9636572be7e3c2f38252b"
+                },
+                {
+                    "ayah": 6143,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6143.mp3",
+                    "bytes": 40319,
+                    "sha256": "97d945893675a3004cfb3709f42838b43578a63ac387d87ca32d908cf2e33021"
+                },
+                {
+                    "ayah": 6144,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6144.mp3",
+                    "bytes": 70830,
+                    "sha256": "e21f911dcaf9cfca36f07ea1ccb3c455355be3d14f9dd2340e8fd0bf5739bd1d"
+                },
+                {
+                    "ayah": 6145,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6145.mp3",
+                    "bytes": 58291,
+                    "sha256": "6de73f901ab41e611f2720c65d52f802121d0379f787d96f9305637062e745c0"
+                },
+                {
+                    "ayah": 6146,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6146.mp3",
+                    "bytes": 77726,
+                    "sha256": "308c2a15373c98cffaef112f77a2a1be670261c2dbfda07fe8423c03500e4277"
+                },
+                {
+                    "ayah": 6147,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6147.mp3",
+                    "bytes": 27782,
+                    "sha256": "7b120082e50c26cf8201d71d3f1fe600a105c19e8d086ffbc7293d3f517d2c93"
+                },
+                {
+                    "ayah": 6148,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6148.mp3",
+                    "bytes": 27573,
+                    "sha256": "dbee08add47aa997ba861165376a0af286241c1874b8f4406a0c6b32891b2d3d"
+                },
+                {
+                    "ayah": 6149,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6149.mp3",
+                    "bytes": 26110,
+                    "sha256": "a57292d8b4b45e3d80a14891a8cf059feddc740c6f40864be220e429cc74cc47"
+                },
+                {
+                    "ayah": 6150,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6150.mp3",
+                    "bytes": 26110,
+                    "sha256": "ca8f18fecb68030ddcb52003bc9a9fd69804bdb195546c54b7a3745b8ede8ac6"
+                },
+                {
+                    "ayah": 6151,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6151.mp3",
+                    "bytes": 27991,
+                    "sha256": "0aae60dc0f1515290cb6ad28d7e229ce8501cd2ff51d9f5ce0f0f17a1043ff3c"
+                },
+                {
+                    "ayah": 6152,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6152.mp3",
+                    "bytes": 62890,
+                    "sha256": "7b75d66751dd4db876319d778530ba7535f3c5f0cee58423ceb9b3895d2830a5"
+                },
+                {
+                    "ayah": 6153,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6153.mp3",
+                    "bytes": 55576,
+                    "sha256": "fcaebae850477ad5cfd78669a31db0854a49d53b70984e6eaea4d941de17ab69"
+                },
+                {
+                    "ayah": 6154,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6154.mp3",
+                    "bytes": 58293,
+                    "sha256": "971fceed268c83b3c3b4022b59bb0840c5dcb6f05461800ba7250164b192a470"
+                },
+                {
+                    "ayah": 6155,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6155.mp3",
+                    "bytes": 58293,
+                    "sha256": "be3eaf647b115d2c258c33bd7a8f7e2fb78d2f783ecd9bfdca1e032db8bbea81"
+                },
+                {
+                    "ayah": 6156,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6156.mp3",
+                    "bytes": 40532,
+                    "sha256": "360890d28cfabab3e7da5e3738b912d3cfc716ad3db49fb893e1bea100016bbf"
+                },
+                {
+                    "ayah": 6157,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6157.mp3",
+                    "bytes": 85880,
+                    "sha256": "032d4b6f82542785311c32b8615ca5c8dde655c0f9a122a4886a2008c582df58"
+                },
+                {
+                    "ayah": 6158,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6158.mp3",
+                    "bytes": 20049,
+                    "sha256": "bbb586f30126e3902ebb4701f132742bf0ca4bc896f2294c94994532acc6c8d1"
+                },
+                {
+                    "ayah": 6159,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6159.mp3",
+                    "bytes": 19840,
+                    "sha256": "1eb081d0dbcf9d4353f4ca35230cb48b78868217486324392a91f910a56ce0b1"
+                },
+                {
+                    "ayah": 6160,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6160.mp3",
+                    "bytes": 46171,
+                    "sha256": "92f5f050983d2990375c3d146fb3c7404de31685ef65b2f820e016394a86740b"
+                },
+                {
+                    "ayah": 6161,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6161.mp3",
+                    "bytes": 63725,
+                    "sha256": "987ac2330cb9c7a1a1821868fb3f01e109d1d821a3d6fff1a200275c5612eea5"
+                },
+                {
+                    "ayah": 6162,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6162.mp3",
+                    "bytes": 62262,
+                    "sha256": "9b1a4ab871c6983e82474144a70227e7c549e792f9472978e475365894106a99"
+                },
+                {
+                    "ayah": 6163,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6163.mp3",
+                    "bytes": 47216,
+                    "sha256": "9098c48f39d78c76ff211ee6aed33415fd64e39eaea42c9f4e63844e10648262"
+                },
+                {
+                    "ayah": 6164,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6164.mp3",
+                    "bytes": 32378,
+                    "sha256": "a72adf74d45e8de81ab43cbe5a687f5dbd571ffb96d35b4940a0704b770605e6"
+                },
+                {
+                    "ayah": 6165,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6165.mp3",
+                    "bytes": 41991,
+                    "sha256": "64b43109361ef9023ee2d7d59252bf4fa6ae6c0b115511630440290614756206"
+                },
+                {
+                    "ayah": 6166,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6166.mp3",
+                    "bytes": 29244,
+                    "sha256": "f3184935ebc486b4a6b87c178ec1009bb5e31ac80621308de50964153931f985"
+                },
+                {
+                    "ayah": 6167,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6167.mp3",
+                    "bytes": 37396,
+                    "sha256": "0fa0ea1f9609f76c1568251d96c6c650cc066260b30b6b44d6c80830f153c298"
+                },
+                {
+                    "ayah": 6168,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6168.mp3",
+                    "bytes": 41784,
+                    "sha256": "6c669cc78370f6343c4f24b074ca691c006b420d299c0fd6ae9fc28fb0ba80c6"
+                },
+                {
+                    "ayah": 6169,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6169.mp3",
+                    "bytes": 28828,
+                    "sha256": "78d753e9e059b2b5010d774a846a27ecbb18e0376c9663c203d6e885781122e6"
+                },
+                {
+                    "ayah": 6170,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6170.mp3",
+                    "bytes": 33634,
+                    "sha256": "66099447be1d3f5b92eba0dc55b815ba4a3f1d44f4c67acf76fcb54c78043f43"
+                },
+                {
+                    "ayah": 6171,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6171.mp3",
+                    "bytes": 44501,
+                    "sha256": "36e74752e5f23b9f80624762955fddcddfb7c79e162e6bf4b10605a0440094db"
+                },
+                {
+                    "ayah": 6172,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6172.mp3",
+                    "bytes": 55368,
+                    "sha256": "e043fa7556f5127c795515c17ebc8af7415625229dffb3db096a1154a71353e6"
+                },
+                {
+                    "ayah": 6173,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6173.mp3",
+                    "bytes": 54114,
+                    "sha256": "dae06dc859e83cada4a844fbaa594355e992735f1beb33b3bae1866014c8e40f"
+                },
+                {
+                    "ayah": 6174,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6174.mp3",
+                    "bytes": 50144,
+                    "sha256": "e25ed688dc0447762cb5bdc3d7a063e8c2f21c0bbb2b397fd1c884e2df4854dc"
+                },
+                {
+                    "ayah": 6175,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6175.mp3",
+                    "bytes": 65817,
+                    "sha256": "d157bee3d6bdc8c2a650c8dfc1c75fcf3827ced5cdcd46bb7b305ef48546affb"
+                },
+                {
+                    "ayah": 6176,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6176.mp3",
+                    "bytes": 101762,
+                    "sha256": "3a6bc6f59bc9c1c22da63cb642a277ad9ed8d99012f6117dd18c5eae890be161"
+                },
+                {
+                    "ayah": 6177,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6177.mp3",
+                    "bytes": 15656,
+                    "sha256": "e26832ec3cb9e74af0d3887b1e3e21b0ff33ff6973be37fd3e22a579963a78f3"
+                },
+                {
+                    "ayah": 6178,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6178.mp3",
+                    "bytes": 47839,
+                    "sha256": "9ec6802a04f5824020e56150f89f83fb7b116d926a147a21e95a8405b346df38"
+                },
+                {
+                    "ayah": 6179,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6179.mp3",
+                    "bytes": 101756,
+                    "sha256": "877d733747c1528d11910addefac1409c94c698a5be7a6e3191bad5360af617d"
+                },
+                {
+                    "ayah": 6180,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6180.mp3",
+                    "bytes": 38229,
+                    "sha256": "9c38453731a446ebc209024b183d48c7eb771f309f4d994c9b875cdd0f30e07d"
+                },
+                {
+                    "ayah": 6181,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6181.mp3",
+                    "bytes": 44498,
+                    "sha256": "a99caab593fb5e8a9121cadfbf497a32a301e6284a93dbb7ab48dbca7fd949bf"
+                },
+                {
+                    "ayah": 6182,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6182.mp3",
+                    "bytes": 54738,
+                    "sha256": "65450c97108b047b6e977b1c0929f8fecb7d53b30039f51e25654cd3230beed6"
+                },
+                {
+                    "ayah": 6183,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6183.mp3",
+                    "bytes": 55365,
+                    "sha256": "418c8d0fbad9d9ab0f8ce909a6b9337e9958877c53dabc6389da43836280c155"
+                },
+                {
+                    "ayah": 6184,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6184.mp3",
+                    "bytes": 41573,
+                    "sha256": "e61c345ba4055168ec80b93052387a750c962c9fc3b13bb2887ea837a2cf8d79"
+                },
+                {
+                    "ayah": 6185,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6185.mp3",
+                    "bytes": 29452,
+                    "sha256": "125856a59b5d38897aca2f17e07cbe37038596e702ef75da0f8da338d7ce7f8b"
+                },
+                {
+                    "ayah": 6186,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6186.mp3",
+                    "bytes": 36975,
+                    "sha256": "fef049abcbd75bd9e4d37bacbdd40441371fad6a03e53f09ceed082bf5394ba1"
+                },
+                {
+                    "ayah": 6187,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6187.mp3",
+                    "bytes": 46797,
+                    "sha256": "88c540f9d75921c58b95a28ba3bb74dcfa6e218effea2fa0ce3725a67784d154"
+                },
+                {
+                    "ayah": 6188,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6188.mp3",
+                    "bytes": 46797,
+                    "sha256": "e8bb6900013e680ed7ba0392452deb98ea82d9a062714c3606c34b098d14b9f5"
+                },
+                {
+                    "ayah": 6189,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6189.mp3",
+                    "bytes": 64975,
+                    "sha256": "d06dd52b162226492c4f54762179fc247bd9ecd23d974892457bdc6c4d9f5c8e"
+                },
+                {
+                    "ayah": 6190,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6190.mp3",
+                    "bytes": 51601,
+                    "sha256": "e65a2e884c9e1a12d6dd2cabe8c7e93f46f30497d003479dc323a8c7ad62b733"
+                },
+                {
+                    "ayah": 6191,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6191.mp3",
+                    "bytes": 56616,
+                    "sha256": "4cb6eef0569499d31e107591a0c54dec5632cbf6818811fb07c07935ad1d5099"
+                },
+                {
+                    "ayah": 6192,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6192.mp3",
+                    "bytes": 76051,
+                    "sha256": "8b2f8ee095c185fa38db19a786dcd9a04cfc3a0d08cfd0504445aa47ec2a7610"
+                },
+                {
+                    "ayah": 6193,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6193.mp3",
+                    "bytes": 73752,
+                    "sha256": "927fafd1200b1468be02c200bc17053ca67822dcb2be32e71d1e449fd1be2bef"
+                },
+                {
+                    "ayah": 6194,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6194.mp3",
+                    "bytes": 38436,
+                    "sha256": "8fa99c616ef61b926946dee7589dce8900a051b87956f0b8bbc450fce9552759"
+                },
+                {
+                    "ayah": 6195,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6195.mp3",
+                    "bytes": 72291,
+                    "sha256": "35a3fef3ed9a6a74393a7ad007fb5298dd2990032faf41088cb479a9680c5cd9"
+                },
+                {
+                    "ayah": 6196,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6196.mp3",
+                    "bytes": 49094,
+                    "sha256": "08d1b2ec2cd7deb6baf47580cd7d5ce8167b889bebed696c1522fdd55117be33"
+                },
+                {
+                    "ayah": 6197,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6197.mp3",
+                    "bytes": 109907,
+                    "sha256": "a4ca3d6a98d585a82ba9b6aa91e342e2a1523c40befd6e1399cc26ce9b56b2d3"
+                },
+                {
+                    "ayah": 6198,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6198.mp3",
+                    "bytes": 51604,
+                    "sha256": "c042cc507fbd9f58554372e3f5cb668f30ac0e844573bf196825b91ed0079417"
+                },
+                {
+                    "ayah": 6199,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6199.mp3",
+                    "bytes": 53693,
+                    "sha256": "41bbedadeb8c42851dc8d87fd2081d0061384daa1d1aa1c9f3361b0788256df6"
+                },
+                {
+                    "ayah": 6200,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6200.mp3",
+                    "bytes": 59127,
+                    "sha256": "be8a02a7ad499cc8ba72f3e05775f8b1f3f2f56ca82bd3379d2fd254542e6d04"
+                },
+                {
+                    "ayah": 6201,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6201.mp3",
+                    "bytes": 47215,
+                    "sha256": "b58db8278ca7f5aa1682ccbfe8cc6b57351d1108d59cd7197fed16ae0c521615"
+                },
+                {
+                    "ayah": 6202,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6202.mp3",
+                    "bytes": 61844,
+                    "sha256": "191cd36b301727bfc8d379a9adc11411678f4ce1b0e54e27150189a9af833a6a"
+                },
+                {
+                    "ayah": 6203,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6203.mp3",
+                    "bytes": 62470,
+                    "sha256": "9ca69851d4eb768b0570bd98372ace84f2306a6bd6b93c5abc3bd30e6ae482f0"
+                },
+                {
+                    "ayah": 6204,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6204.mp3",
+                    "bytes": 59545,
+                    "sha256": "61879b617ce865eb4d2153ca538b5d78e077fc95810f8eeb589b01bbe0272477"
+                },
+                {
+                    "ayah": 6205,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6205.mp3",
+                    "bytes": 55157,
+                    "sha256": "a9fe00f8e9a8124a9e67579890bb9b0d06ad1cc231abc638278db906124a5f8f"
+                },
+                {
+                    "ayah": 6206,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6206.mp3",
+                    "bytes": 29871,
+                    "sha256": "cf839eafa856b194efffafd11b767c4d26e40fffafd453838312aa1d5e0c0ded"
+                },
+                {
+                    "ayah": 6207,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6207.mp3",
+                    "bytes": 43454,
+                    "sha256": "dd3ae79ef5a6af125485c575259e34afdf8394e3c0d5e075ab39801aeac2a71a"
+                },
+                {
+                    "ayah": 6208,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6208.mp3",
+                    "bytes": 61638,
+                    "sha256": "cb6c46c0492724f4cf35c8bd51d19738b10be19ea6cf5e976a6f041bc29cf40a"
+                },
+                {
+                    "ayah": 6209,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6209.mp3",
+                    "bytes": 61011,
+                    "sha256": "50857bdd391e8c2028a15786a807d572896df182974ddae4c14e1d6307e370e0"
+                },
+                {
+                    "ayah": 6210,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6210.mp3",
+                    "bytes": 67280,
+                    "sha256": "807b113aee673f49581b42ee7d542dde291771bd45150be01d84ea018ede81b8"
+                },
+                {
+                    "ayah": 6211,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6211.mp3",
+                    "bytes": 54741,
+                    "sha256": "e18e026da04a2e75b05113383d65c03654b09e2afbcadc4bf938dd475f6e2020"
+                },
+                {
+                    "ayah": 6212,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6212.mp3",
+                    "bytes": 68952,
+                    "sha256": "85c29897c02230b6d8802241025e814d73ee18a35f95d7460ce231048a1a91a1"
+                },
+                {
+                    "ayah": 6213,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6213.mp3",
+                    "bytes": 51398,
+                    "sha256": "17ba42286758581b698bb31ac387052788482f6fc9951b95435939bc80b2fc38"
+                },
+                {
+                    "ayah": 6214,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6214.mp3",
+                    "bytes": 56826,
+                    "sha256": "1812ee5a959adc1c39c93f8bf3c8299b511dbd594d031c65cb6662d40dfa885b"
+                },
+                {
+                    "ayah": 6215,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6215.mp3",
+                    "bytes": 66857,
+                    "sha256": "1b9b09e56f6b3fcaa514068c407371029f6fa7291578e9e72f27bc666d52e6a3"
+                },
+                {
+                    "ayah": 6216,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6216.mp3",
+                    "bytes": 81904,
+                    "sha256": "bc0ecf357b4d89ddbc0b42bc8b269b33df25440b3152d37a1e7b6006fefbcc29"
+                },
+                {
+                    "ayah": 6217,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6217.mp3",
+                    "bytes": 60589,
+                    "sha256": "6be4ccb0a481af4db4b64b9b37da7b4cc7edf73198fc1c41e373ffa72ddec28e"
+                },
+                {
+                    "ayah": 6218,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6218.mp3",
+                    "bytes": 58708,
+                    "sha256": "bde65e87c940510561617f915843e62670291fe6a7b06067126184ead0fd04a8"
+                },
+                {
+                    "ayah": 6219,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6219.mp3",
+                    "bytes": 42825,
+                    "sha256": "4d110996e5a67ac36279b37670f2701079079a8bcadf0e5118708063d9ab85d9"
+                },
+                {
+                    "ayah": 6220,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6220.mp3",
+                    "bytes": 46169,
+                    "sha256": "a49b41a7fc707dee92b41e9de129f1f39e673ef2c443234580dfb8c15fd7254a"
+                },
+                {
+                    "ayah": 6221,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6221.mp3",
+                    "bytes": 53065,
+                    "sha256": "280461feade74938be371c909f3fbfecd8eeba15fb73f0d5f665f7a05262d4b5"
+                },
+                {
+                    "ayah": 6222,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6222.mp3",
+                    "bytes": 25273,
+                    "sha256": "b979fc8158df6e87ce205efbe7d47aa1eb7bd9818461cf28d880f7fb8c3e6a23"
+                },
+                {
+                    "ayah": 6223,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6223.mp3",
+                    "bytes": 21720,
+                    "sha256": "533af01da814319a1084605c2ca2f2fde908f66716b6ebb931542273c34ed42e"
+                },
+                {
+                    "ayah": 6224,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6224.mp3",
+                    "bytes": 25273,
+                    "sha256": "c2bb772b953d92ab124ab797d86381f0aa84c6916d7aa7a836eafa7c0c94c598"
+                },
+                {
+                    "ayah": 6225,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6225.mp3",
+                    "bytes": 40320,
+                    "sha256": "f464621bbcfef038fa0021df1757f1ca2373edc0fc5ae342453a3ab65ed7f63e"
+                },
+                {
+                    "ayah": 6226,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6226.mp3",
+                    "bytes": 29242,
+                    "sha256": "0b3865259abc4db182e6be01c06ea17b948b5454c3fd1b044de349d94e94e772"
+                },
+                {
+                    "ayah": 6227,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6227.mp3",
+                    "bytes": 30496,
+                    "sha256": "8e1e8facb7649baab42e1d0449f498c9c00fa4ea8fcfefd8519f1807de383934"
+                },
+                {
+                    "ayah": 6228,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6228.mp3",
+                    "bytes": 41780,
+                    "sha256": "86bf26d123f6a7be5105cfd7e6a209aab0eea4ede91f79200bd01067e64d2eb5"
+                },
+                {
+                    "ayah": 6229,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6229.mp3",
+                    "bytes": 49513,
+                    "sha256": "41a91b4be0091f5e59ed9c91b07ea2c6eb2e98edb51dd99ff5d0974aaaaa662b"
+                },
+                {
+                    "ayah": 6230,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6230.mp3",
+                    "bytes": 46796,
+                    "sha256": "a0b994c2f7142abcba3dbe64402d94ed6ff764991e7a7732b2e7609a0f86ae46"
+                },
+                {
+                    "ayah": 6231,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6231.mp3",
+                    "bytes": 50348,
+                    "sha256": "c715a6dc7b2eb6765ee74c2efcbaee296f5cc570ef9df9f2012ec4968097b1f6"
+                },
+                {
+                    "ayah": 6232,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6232.mp3",
+                    "bytes": 43660,
+                    "sha256": "d58b22c5aeddb9899b67a36d8692df2fe688e77f4a575b53156a7833fe80b0ca"
+                },
+                {
+                    "ayah": 6233,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6233.mp3",
+                    "bytes": 44287,
+                    "sha256": "f91710dcc92f42f4658acde67d8cd81118ea7b58e43d1c28b518b86e26e6a367"
+                },
+                {
+                    "ayah": 6234,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6234.mp3",
+                    "bytes": 65394,
+                    "sha256": "c1db79df0be024b9943d51885d629956773c002a8d44a2789448cf354d8c98f2"
+                },
+                {
+                    "ayah": 6235,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6235.mp3",
+                    "bytes": 64767,
+                    "sha256": "06e4163302e545bd51441e777b8a45e4738bad0c532640176979be937cfe3029"
+                },
+                {
+                    "ayah": 6236,
+                    "url": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6236.mp3",
+                    "bytes": 67484,
+                    "sha256": "9819c3154c4252118f743091056e88f54cc465a4962ebd59cfbd1ee399dc2d42"
+                }
+            ]
+        }
+    ]
+}
